@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmi e Strutture Dati/📝 Indice Algoritmi e Strutture Dati.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmi e Strutture Dati/📝 Indice Algoritmi e Strutture Dati.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmi e Strutture Dati/📝 Indice Algoritmi e Strutture Dati.md"
+                "file": "README.md"
               }
             }
           }
@@ -120,9 +120,9 @@
   },
   "active": "ca0d8fb3e701c55b",
   "lastOpenFiles": [
+    "README.md",
     "Algoritmi e Strutture Dati/📝 Indice Algoritmi e Strutture Dati.md",
     "Algoritmi e Strutture Dati/0. 📌 Formule e Convenzioni/Sommatorie.md",
-    "README.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/1. Descrizione Liste Concatenate.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟡 Vari/2. Matrice Simmetrica.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤵️ Limite Asintotico Inferiore.md",
