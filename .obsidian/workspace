@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "ae4edc500541e3ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca0d8fb3e701c55b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Algoritmi e Strutture Dati/📝 Indice Algoritmi e Strutture Dati.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a375d305183f7db9",
+    "type": "split",
+    "children": [
+      {
+        "id": "78c61f98fbe9d694",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ac53709d2b0e7bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "palindrom",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "402a415123993969",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.50484466552734
+  },
+  "right": {
+    "id": "de2bb8d823be66fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "1639d3e4e8cf7148",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c8d013de2845330",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Algoritmi e Strutture Dati/📝 Indice Algoritmi e Strutture Dati.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a22b475273398ea6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a9df5726dc449122",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "38eb3b69ac6823fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Algoritmi e Strutture Dati/📝 Indice Algoritmi e Strutture Dati.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ca0d8fb3e701c55b",
+  "lastOpenFiles": [
+    "Algoritmi e Strutture Dati/📝 Indice Algoritmi e Strutture Dati.md",
+    "Algoritmi e Strutture Dati/0. 📌 Formule e Convenzioni/Sommatorie.md",
+    "README.md",
+    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/1. Descrizione Liste Concatenate.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟡 Vari/2. Matrice Simmetrica.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤵️ Limite Asintotico Inferiore.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/🤓 Metodo dell'Esperto.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/5.2. Quick Sort Randomizzato (D&I).md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/5. Quick Sort (D&I).md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/📃 Definizione di Algoritmo.md"
+  ]
+}
