@@ -34,6 +34,6 @@ void Stack_kTrova(S, k)
 	return trovato
 ```
 
->- $T_{migliore}(n) \Rightarrow Ω(n) \rightarrow$ $S$ con tutti i valori $=k$
->- $T_{peggiore}(n) \Rightarrow O(n) \rightarrow$ $S$ non contiene valori $=k$
+>- $T_{migliore}(1) \Rightarrow Ω(1) \rightarrow$ $k$ è in testa allo stack
+>- $T_{peggiore}(n) \Rightarrow O(n) \rightarrow$ $S$ non contiene $k$
 
