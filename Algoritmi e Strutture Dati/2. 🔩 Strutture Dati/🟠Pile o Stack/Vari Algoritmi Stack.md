@@ -145,24 +145,30 @@ boolean isReverse(S)
 > $T_{peggiore}(n) \Rightarrow O(n) \rightarrow$ quando si svuota $S$, quindi quando non è presente il carattere £ e lo stack si svuota nel primo while, oppure quando i caratteri di $w^r$  sono tutti uguali a tutti i primi caratteri di $w$, indipendentemente se si ritorna $true$ o $false$
 
 - ### Sequenza Palindroma
-Leggere caratteri da tastiera fino al carattere nullo. Dire se la sequenza inserita è palindroma utilizzando la pila. Non è consentito contare i caratteri inseriti (in tal caso l'esercizio è analogo al precedente).
+Leggere caratteri da tastiera fino al carattere nullo. Dire se la sequenza inserita è palindroma utilizzando uno stack $S$. **Non è consentito contare i caratteri inseriti** (in tal caso l'esercizio è analogo al precedente).
 
 ``` Pseudocodice TI:"Stack_Palindromo" "FOLD"
-boolean Stack_Palindromo(S)
-	// metto in P w
-	while not(Stackempty(S)) and Top(S) != '£':
-		Push(P, Pop(S))
-	// se S è vuoto allora ritorno false
-	if Stackempty(S):
-		return false
+boolean Stack_Palindromo()
+	do 
+		r = inuput(C)
+		if r != ' ':
+			Push(S1, r)
+			Push(S2, r)
+	while r != ' ' 
+	//inverto S2
+	while not(Stackempty(S2)):
+		Push(S3, Pop(S2))
+	//controllo che S1 e S2 siano identiche
+	while not(Stackempty(S1)) and not(Stackempty(S3))
+		and Top(S1) == Top(S3):
+		Pop(S1)
+		Pop(S3)
+	if Stackempty(S1) and Stackempty(S3):
+		return true
 	else:
-		Pop(S)
-		while not(Stackempty(P)) and nop(Stackempty(S)) 
-			and Top(P) == Top(S):
-				Pop(P)
-				Pop(S)
-		if Stackempty(P) and Stackempty(S):
-			return true
-		else:
-			return false
+		return false
 ```
+
+>$T(n)=5c·n+2n+3c·true_{while^2}+2c$
+>$T_{migliore}(n)\Rightarrow Ω(n) \rightarrow$ il primo e l'ultimo elemento sono diversi $(true_{while^2}=0)$
+> $T_{peggiore}(n) \Rightarrow O(n) \rightarrow$ la sequenza è palindroma $(true_{while^2}=1)$
