@@ -26,7 +26,7 @@ Realizzare due stack utilizzando solo un array. Non devo avere overflow. Non dev
 Dato uno stack, stabilire se $k$ è presente nello stack.
 ``` Pseudocodice TI:"Push" "FOLD"
 void Stack_kTrova(S, k)
-	trovato = false
+	trovato = false:
 	while not(Stackempty(S)) and not(trovato):
 		x = Pop(S)
 		if x == k:
@@ -36,4 +36,22 @@ void Stack_kTrova(S, k)
 
 >- $T_{migliore}(1) \Rightarrow Ω(1) \rightarrow$ $k$ è in testa allo stack
 >- $T_{peggiore}(n) \Rightarrow O(n) \rightarrow$ $S$ non contiene $k$
+
+- ### Inverti Stringa
+Dato uno stack $S$ contente una stringa, ribaltarla nello stesso stack $S$.
+
+``` Pseudocodice TI:"Stack_Inverti_Stringa" "FOLD"
+void Stack_Inverti_Stringa(S)
+	while not(Stackempty(S)):
+		x = Pop(S)
+		Push(S1, x)
+	while not(Stackempty(S1)):
+		x = Pop(S1)
+		Push(S2, x)
+	while not(Stackempty(S2)):
+		x = Pop(S2)
+		Push(S, x)
+```
+
+>$T(n)=9c·n \Rightarrow θ(n)$ 
 
