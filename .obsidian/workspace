@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/1. Selection Sort.md",
+            "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/5.2. Quick Sort Randomizzato (D&I).md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/1. Selection Sort.md",
+            "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/5.2. Quick Sort Randomizzato (D&I).md",
             "mode": "preview",
             "source": false
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/1. Selection Sort.md",
+                "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/5.2. Quick Sort Randomizzato (D&I).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/1. Selection Sort.md"
+                "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/5.2. Quick Sort Randomizzato (D&I).md"
               }
             }
           }
@@ -132,17 +132,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ca0d8fb3e701c55b",
+  "active": "04a8a4adc9e1c09a",
   "lastOpenFiles": [
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/1. Selection Sort.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/5.2. Quick Sort Randomizzato (D&I).md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/5. Quick Sort (D&I).md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟢 Ricorsione/🔢 Calcolare i tempi Ricorsivi.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/🤓 Metodo dell'Esperto.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/4. Merge Sort (D&I).md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/📃 Definizione Divide & Impera.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/3. Insertion Sort.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/2. Bubble Sort.md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/⌚ Tempo Minimo per Ordinamento con Confronti.md",
-    "Algoritmi e Strutture Dati/0. 📌 Formule e Convenzioni/Sommatorie.md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/5. Quick Sort (D&I).md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/🤓 Metodo dell'Esperto.md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/📃 Definizione Divide & Impera.md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/Algoritmi D&I/5. Funzione Matematica (D&I).md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/Algoritmi D&I/1. Conta Coppie (D&I).md"
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/1. Selection Sort.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/⌚ Tempo Minimo per Ordinamento con Confronti.md"
   ]
 }
