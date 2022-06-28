@@ -36,3 +36,4 @@ void Stack_kTrova(S, k)
 
 >- $T_{migliore}(n) \Rightarrow Ω(n) \rightarrow$ $S$ con tutti i valori $=k$
 >- $T_{peggiore}(n) \Rightarrow O(n) \rightarrow$ $S$ non contiene valori $=k$
+
