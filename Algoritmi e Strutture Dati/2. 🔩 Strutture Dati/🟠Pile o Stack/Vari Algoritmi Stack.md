@@ -89,6 +89,28 @@ Scrivere un algoritmo che dati in ingresso due stack $S1$ e $S2$ contententi cia
 
 ``` Pseudocodice TI:"Ordina_Stack" "FOLD"
 void Ordina_Stack(S1, S2)
+	// confronto 1 a 1 e metto quello più piccolo in S3
 	while not(Stackempty(S1)) and not(Stackempty(S2)):
-		if 
+		if Top(S1) <= Top(S2):
+			Push(S3, Pop(S1))
+		else:
+			Push(S3, Pop(S2))
+			
+	/*
+	a questo punto uno dei due stack iniziali sarà vuoto, 
+	lo svuoto in ordine in S3
+	*/
+	while not(Stackempty(S1)):
+		Push(S3, Pop(S1))
+	while not(Stackempty(S2)):
+		Push(S3, Pop(S2))
+		
+	// ribalto
+	while not(Stackempty(S3)):
+		Push(P, Pop(S3))
 ```
+
+>Sapendo che:
+>- $true_{while^1}+true_{while^2}+true_{while^3}=n+m$
+>- $true_{while^4}=n+m$
+>- $T(n) $
