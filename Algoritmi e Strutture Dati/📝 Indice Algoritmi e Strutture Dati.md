@@ -47,10 +47,14 @@
 # 🔗 Strutture Dati
 0. **Operazioni sugli Insiemi Dinamici**:
 	- [ ] [[📐 Operazioni sugli Insiemi Dinamici]]
-1. **Liste Concatenate**
+1. **Liste Concatenate**:
 	- [ ] [[1. Descrizione Liste Concatenate]]
 	- [ ] [[2. Operazioni Liste Concatenate]]
 	- [ ] [[3. Vari Algoritmi Liste Concatenate]]
+2. **Pile o Stack**:
+	- [ ] [[1. Descrizione Stack]]
+	- [ ] [[2. Implementazione e Operazioni Stack]]
+	- [ ] [[3. Vari Algoritmi Stack]]
 
 ***
 

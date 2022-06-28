@@ -45,6 +45,6 @@ id7 --> id15
 >[!Note]
 >Un algoritmo di **D&I** lo si riconosce dal tempo del passo ricorsivo;
 >es. 
->- $T(n) = T(\dfrac{2n}{3})$ è D&I? **Sì**, l'importanza della parte che tolgo non è collegata ad $n$
-> - $T(n) = T(n-1000)$ **NON è** D&I
+>- $T(n) = T(\dfrac{2n}{3})$ è D&I? **Sì**, l'importanza della parte che tolgo non è collegata ad $n$;
+> - $T(n) = T(n-1000)$ **NON è** D&I, è ricorsivo e basta;
 

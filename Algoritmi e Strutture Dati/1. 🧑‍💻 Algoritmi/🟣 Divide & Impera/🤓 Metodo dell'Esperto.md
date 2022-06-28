@@ -1,5 +1,5 @@
 # Definizione 📃
-Il *Metodo dell'Esperto* (o `Teorema Principale`) è un teorema per il calcolo dei tempi di algoritmi **solamente** di tipo [Divide & Impera](obsidian://open?vault=obsidian-git-sync&file=Algoritmi%20e%20Strutture%20Dati%2F1.%20%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20Algoritmi%2F%F0%9F%9F%A3%20Divide%20%26%20Impera%2F%F0%9F%93%83%20Definizione%20Divide%20%26%20Impera):
+Il **Metodo dell'Esperto** (o `Teorema Principale`) è un teorema per il calcolo dei tempi di algoritmi **solamente** di tipo [Divide & Impera](obsidian://open?vault=obsidian-git-sync&file=Algoritmi%20e%20Strutture%20Dati%2F1.%20%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20Algoritmi%2F%F0%9F%9F%A3%20Divide%20%26%20Impera%2F%F0%9F%93%83%20Definizione%20Divide%20%26%20Impera):
 
 # Enunciato ✒️
 Sia data una **relazione di ricorrenza** $T(n)$ nella forma: 
