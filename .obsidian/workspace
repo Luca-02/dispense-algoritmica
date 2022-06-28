@@ -4,19 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ca0d8fb3e701c55b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/5. Quick Sort (D&I).md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "group": "a17146604317ccaf"
-      },
-      {
         "id": "cd3fbfb741bcff4c",
         "type": "leaf",
         "state": {
@@ -26,8 +13,7 @@
             "mode": "preview",
             "source": false
           }
-        },
-        "group": "a17146604317ccaf"
+        }
       }
     ],
     "direction": "vertical"
@@ -132,7 +118,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ca0d8fb3e701c55b",
+  "active": "cd3fbfb741bcff4c",
   "lastOpenFiles": [
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/5. Quick Sort (D&I).md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/2. Implementazione e Operazioni Stack.md",
