@@ -122,14 +122,23 @@ Dato uno stack $S$ con lettere dell'alfabeto, dire se contiene una sequenza del 
 
 ``` Pseudocodice TI:"isReverse" "FOLD"
 boolean isReverse(S)
-	// metto in P1 w
+	// metto in P w
 	while not(Stackempty(S)) and Top(S) != '£':
-		Push(P1, Pop(S))
+		Push(P, Pop(S))
 	// se S è vuoto allora ritorno false
 	if Stackempty(S):
 		return false
 	else:
 		Pop(S)
-		
-	
+		while not(Stackempty(P)) and nop(Stackempty(S)) 
+			and Top(P) == Top(S):
+				Pop(P)
+				Pop(S)
+		if Stackempty(P) and Stackempty(S):
+			return true
+		else:
+			return false
 ```
+
+>$T(n)=2c·true_{while^1}+2c·true_{if}+(3c·true_{while^2})·false_{if} + 2c$
+>$T_{migliore}(n)\Rightarrow Ω(1) \rightarrow$ il primo elemento è il simbolo  
