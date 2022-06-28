@@ -113,4 +113,23 @@ void Ordina_Stack(S1, S2)
 >Sapendo che:
 >- $true_{while^1}+true_{while^2}+true_{while^3}=n+m$
 >- $true_{while^4}=n+m$
->- $T(n) $
+>- $T(n)$ ⁓ $3c·(n+m)+3c·(n+m) \Rightarrow θ(n+m)$
+
+- ### Sequenza
+Dato uno stack $S$ con lettere dell'alfabeto, dire se contiene una sequenza del tipo:
+	- "$w$£$w^r$" 
+	-dove $w$ è una parola, $w^r$ è la stessa parola però invertita e £ un simbolo
+
+``` Pseudocodice TI:"isReverse" "FOLD"
+boolean isReverse(S)
+	// metto in P1 w
+	while not(Stackempty(S)) and Top(S) != '£':
+		Push(P1, Pop(S))
+	// se S è vuoto allora ritorno false
+	if Stackempty(S):
+		return false
+	else:
+		Pop(S)
+		
+	
+```
