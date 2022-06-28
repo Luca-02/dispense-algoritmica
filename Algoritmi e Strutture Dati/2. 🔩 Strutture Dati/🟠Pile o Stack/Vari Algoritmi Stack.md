@@ -61,20 +61,34 @@ Data una stringa contenuta in un array $A$ di caratteri, verificare che le paren
 ``` Pseudocodice TI:"checkParentesi" "FOLD"
 boolean checkParentesi(A)
 	i = 1
-	errore = false
+	ok = true
 	while i <= len(A) && not(errore):
-		if A[i] == '(' or A[i] == '[':
+		if A[i] == '(' or A[i] == '[' or or A[i] == '{':
 			Push(S, A[i])
 		if A[i] == ')':
-			if Stackempty(S):
-				errore = true
-			else:
-				if Pop(S) != '(':
-					errore = true
+			if Stackempty(S) or Pop(S) != '(':
+				ok = false
 		if A[i] == ']':
-			if Stackempty(S):
-				errore = true
-			else:
-				if Pop(S) != '[':
-					errore = true
+			if Stackempty(S) or Pop(S) != '[':
+				ok = false
+		if A[i] == '}':
+			if Stackempty(S) or Pop(S) != '{':
+				ok = false
+		i++
+	if not(Stackempty(S)):
+		ok = false
+	return ok
+```
+
+>Il caso migliore si verifica quando il primo carattere è una parentesi chiusa di qualunque tipo. 
+>
+>Il caso peggiore è invece un'espressione (scritta bene o male) con più parentesi aperte che chiuse.
+
+- ### Ordina Due Stack
+Scrivere un algoritmo che dati in ingresso due stack $S1$ e $S2$ contententi ciascuna valori crescenti e uno stack vuoto $P$. Inserire in modo crescente gli elementi di $S1$ e $S2$ in $P$.
+
+``` Pseudocodice TI:"Ordina_Stack" "FOLD"
+void Ordina_Stack(S1, S2)
+	while not(Stackempty(S1)) and not(Stackempty(S2)):
+		if 
 ```
