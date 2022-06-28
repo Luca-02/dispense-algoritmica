@@ -23,7 +23,7 @@ i5 --domanda inutile--> i9
 ```
 
 - Considero un **albero di decisione** di altezza $h$ con $l$ foglie raggiungibili che corrisponde a un ordinamento per confronti di $n$ elementi;
-- Possibili ordinamenti di un array di $n$ elementi $= n!$;
+- <mark style="background: #BBFABBA6;">Possibili ordinamenti di un array di $n$ elementi $= n!$</mark>;
 - Poichè ciascuna delle $n!$ permutazioni dell'input compare in una foglia, si ha $n!≤l$. Dal momento che un albero binario di altezza $h$ non ha più di $2^h$ foglie, si ha:
 $$n!≤l≤2^h$$
 - Servono quindi almeno $n!$ foglie:
