@@ -141,4 +141,28 @@ boolean isReverse(S)
 ```
 
 >$T(n)=2c·true_{while^1}+2c·true_{if}+(3c·true_{while^2})·false_{if} + 2c$
->$T_{migliore}(n)\Rightarrow Ω(1) \rightarrow$ il primo elemento è il simbolo  
+>$T_{migliore}(n)\Rightarrow Ω(1) \rightarrow$ il primo elemento di $S$ è il simbolo £
+> $T_{peggiore}(n) \Rightarrow O(n) \rightarrow$ quando si svuota $S$, quindi quando non è presente il carattere £ e lo stack si svuota nel primo while, oppure quando i caratteri di $w^r$  sono tutti uguali a tutti i primi caratteri di $w$, indipendentemente se si ritorna $true$ o $false$
+
+- ### Sequenza Palindroma
+Leggere caratteri da tastiera fino al carattere nullo. Dire se la sequenza inserita è palindroma utilizzando la pila. Non è consentito contare i caratteri inseriti (in tal caso l'esercizio è analogo al precedente).
+
+``` Pseudocodice TI:"Stack_Palindromo" "FOLD"
+boolean Stack_Palindromo(S)
+	// metto in P w
+	while not(Stackempty(S)) and Top(S) != '£':
+		Push(P, Pop(S))
+	// se S è vuoto allora ritorno false
+	if Stackempty(S):
+		return false
+	else:
+		Pop(S)
+		while not(Stackempty(P)) and nop(Stackempty(S)) 
+			and Top(P) == Top(S):
+				Pop(P)
+				Pop(S)
+		if Stackempty(P) and Stackempty(S):
+			return true
+		else:
+			return false
+```
