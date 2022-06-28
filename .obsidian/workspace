@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "cd3fbfb741bcff4c",
+        "id": "1637c117acd3d137",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -13,7 +13,21 @@
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "cce4f4f56a30184e"
+      },
+      {
+        "id": "9d1cd9309864e954",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/2. Implementazione e Operazioni Stack.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "cce4f4f56a30184e"
       }
     ],
     "direction": "vertical"
@@ -118,17 +132,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cd3fbfb741bcff4c",
+  "active": "9d1cd9309864e954",
   "lastOpenFiles": [
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/2. Implementazione e Operazioni Stack.md",
+    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/📐 Operazioni sugli Insiemi Dinamici.md",
+    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/2. Operazioni Liste Concatenate.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/1. Descrizione Stack.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/5. Quick Sort (D&I).md",
     "README.md",
     "Algoritmi e Strutture Dati/📝 Indice Algoritmi e Strutture Dati.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/2. Operazioni Liste Concatenate.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/1. Descrizione Liste Concatenate.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/3. Vari Algoritmi Liste Concatenate.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/📐 Operazioni sugli Insiemi Dinamici.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/📃 Definizione di Algoritmo.md"
   ]
 }
