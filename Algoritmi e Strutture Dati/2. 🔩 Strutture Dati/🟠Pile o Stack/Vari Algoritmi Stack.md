@@ -55,3 +55,26 @@ void Stack_Inverti_Stringa(S)
 
 >$T(n)=9c·n \Rightarrow θ(n)$ 
 
+- ### Parentesi
+Data una stringa contenuta in un array $A$ di caratteri, verificare che le parentesi siano annidate correttamente.
+
+``` Pseudocodice TI:"checkParentesi" "FOLD"
+boolean checkParentesi(A)
+	i = 1
+	errore = false
+	while i <= len(A) && not(errore):
+		if A[i] == '(' or A[i] == '[':
+			Push(S, A[i])
+		if A[i] == ')':
+			if Stackempty(S):
+				errore = true
+			else:
+				if Pop(S) != '(':
+					errore = true
+		if A[i] == ']':
+			if Stackempty(S):
+				errore = true
+			else:
+				if Pop(S) != '[':
+					errore = true
+```
