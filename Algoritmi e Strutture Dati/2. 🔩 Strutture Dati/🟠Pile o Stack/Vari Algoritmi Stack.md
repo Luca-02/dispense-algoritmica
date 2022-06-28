@@ -2,11 +2,11 @@
 Dato uno stack $S$ e una chiave $k$, eliminare da $S$ tutte le occorrenze di $k$, usando come appoggio solo altri stack.
 ``` Pseudocodice TI:"Push" "FOLD"
 void Stack_kDel(S, k)
-	while not Stackempty(S):
+	while not(Stackempty(S)):
 		x = Pop(S)
 		if x != k:
 			Push(S_app, x)
-	while not Stackempty(S_app):
+	while not(Stackempty(S_app)):
 		Push(S, Pop(S_app))
 ```
 
@@ -26,10 +26,10 @@ Realizzare due stack utilizzando solo un array. Non devo avere overflow. Non dev
 Dato uno stack, stabilire se $k$ è presente nello stack.
 ``` Pseudocodice TI:"Push" "FOLD"
 void Stack_kTrova(S, k)
-	while not Stackempty(S):
+	trovato = false
+	while not(Stackempty(S)) and not(trovato):
 		x = Pop(S)
-		if x != k:
-			Push(S_app, x)
-	while not Stackempty(S_app):
-		Push(S, Pop(S_app))
+		if x == k:
+			trovato = true
+	return trovato
 ```
