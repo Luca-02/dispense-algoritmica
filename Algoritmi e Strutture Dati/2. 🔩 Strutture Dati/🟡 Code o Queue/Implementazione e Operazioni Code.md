@@ -15,3 +15,10 @@ Lo Stack può essere implementato tramite **array** o tramite **liste concatenat
 >- Se la coda è vuota, il tentativo di rimuovere un elemento (**Dequeue**) provocherà un `underflow`.
 >- Se $Q.head = Q.tail+1$, ovvero i due indici si sono incrociati, la coda è piena e il tentativo di inserire (**Enqueue**) un elemento provocherà un `overflow`.
 
+>### Esempio Grafico
+><center><img src="http://www.swappa.it/wiki/uploads/Uni/A-enqueueDequeue.gif"></center>
+>
+> a) la coda ha 5 elementi nelle posizioni $Q[7...11]$;
+> b) ksjfd
+> c) dfmhn
+ 
