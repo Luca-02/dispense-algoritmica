@@ -3,7 +3,15 @@ Lo Stack può essere implementato tramite **array** o tramite **liste concatenat
 ***
 - # Implementazione con array
 	Possiamo implementare una Coda di **massimo** $n-1$ elementi con un array $Q[1...n]$.
-	- L'attributo $Q.head$ indica l'inizio della coda;
-	- L'attributo $Q.tail$ indica la prossima posizione in cui l'ultimo elemento che arriva sarà inserito nella coda 
-	- Gli elementi della coda occupano le posizioni $[Q.head, Q.head+1...Q.tail-1]$ 
+	- L'attributo $Q.head$ indica <mark style="background: #BBFABBA6;">l'inizio della coda</mark>;
+	- L'attributo $Q.tail$ indica la <mark style="background: #BBFABBA6;">prossima posizione</mark> in cui l'ultimo elemento che arriva sarà inserito nella coda;
+	
+	Gli elementi della coda occupano le posizioni $[Q.head, Q.head+1...Q.tail-1]$.
+	- All'inizio $Q.head = Q.tail = 1$;
+	- Alla fine dell'arraysi "va a capo", nel senso che subito dopo la posizione $n$ si avrà la posizione $1$, avendo così un ordine circolare;
+
+>[!Important]
+>- Se $Q.head = Q.tail$, la coda è vuota.
+>- Se la coda è vuota, il tentativo di rimuovere un elemento (**Dequeue**) provocherà un `underflow`.
+>- Se $Q.head = Q.tail+1$, ovvero i due indici si sono incrociati, la coda è piena e il tentativo di inserire (**Enqueue**) un elemento provocherà un `overflow`.
 
