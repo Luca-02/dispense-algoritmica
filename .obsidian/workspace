@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/4. Esercizi Alberi.md",
+            "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/3. Operazioni con Alberi.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/4. Esercizi Alberi.md",
+            "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/3. Operazioni con Alberi.md",
             "mode": "preview",
             "source": false
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/4. Esercizi Alberi.md",
+                "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/3. Operazioni con Alberi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/4. Esercizi Alberi.md"
+                "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/3. Operazioni con Alberi.md"
               }
             }
           }
@@ -133,9 +133,9 @@
   },
   "active": "4b205f2ecdc2e915",
   "lastOpenFiles": [
+    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/3. Operazioni con Alberi.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/4. Esercizi Alberi.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/2. Visite degli Alberi.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/3. Operazioni con Alberi.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/🔗Procedimenti Operazioni su Alberi.md",
     "Algoritmi e Strutture Dati/0. 📌 Formule e Convenzioni/Cicli While.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/1. Descrizione Alberi.md",
