@@ -6,7 +6,6 @@
       {
         "id": "eb6606a7afa26808",
         "type": "leaf",
-        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
@@ -14,22 +13,7 @@
             "mode": "source",
             "source": false
           }
-        },
-        "group": "aac0b0b44e45cad3"
-      },
-      {
-        "id": "dacb1cabeff3f99c",
-        "type": "leaf",
-        "dimension": 50,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/3. Operazioni con Alberi.md",
-            "mode": "preview",
-            "source": false
-          }
-        },
-        "group": "aac0b0b44e45cad3"
+        }
       }
     ],
     "direction": "vertical"
