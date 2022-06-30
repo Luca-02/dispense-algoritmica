@@ -13,7 +13,21 @@
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "dd3b4aa9b6d27a59"
+      },
+      {
+        "id": "7eebb544014e002d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/3. Operazioni con Alberi.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "dd3b4aa9b6d27a59"
       }
     ],
     "direction": "vertical"
