@@ -4,19 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "da394b843c7807b9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/3. Vari Algoritmi Stack.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "group": "b4e93145bd76d4a7"
-      },
-      {
         "id": "3303f96c0e5911e8",
         "type": "leaf",
         "state": {
@@ -26,8 +13,7 @@
             "mode": "preview",
             "source": false
           }
-        },
-        "group": "b4e93145bd76d4a7"
+        }
       }
     ],
     "direction": "vertical"
@@ -132,14 +118,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "da394b843c7807b9",
+  "active": "3303f96c0e5911e8",
   "lastOpenFiles": [
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/3. Vari Algoritmi Stack.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟡 Code o Queue/3. Vari Algoritmi Code.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/📐 Operazioni sugli Insiemi Dinamici.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟡 Code o Queue/2. Implementazione e Operazioni Code.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟡 Code o Queue/1. Descrizione Code o Queue.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/2. Implementazione e Operazioni Stack.md",
+    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/📐 Operazioni sugli Insiemi Dinamici.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/1. Descrizione Stack.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/3. Vari Algoritmi Liste Concatenate.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/2. Operazioni Liste Concatenate.md",
