@@ -28,5 +28,4 @@
 <center><img src="https://cdn.programiz.com/sites/tutorial2program/files/bst-delete-5.png"></center>
 - caso 3
 <center><img src="https://cdn.programiz.com/sites/tutorial2program/files/bst-delete-6.png"></center>
-<center><img src="https://cdn.programiz.com/sites/tutorial2program/files/bst-delete-6.png"></center>
 <center><img src="https://cdn.programiz.com/sites/tutorial2program/files/bst-delete-8.png"></center>
