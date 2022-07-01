@@ -71,4 +71,4 @@
 # 📌 Formule e Convenzioni
 - [ ] [[Cicli While]]
 - [ ] [[Convenzioni Pseudocodice]]
-- [ ] [[Sommatorie]]
+- [ ] [[A. Sommatorie]]

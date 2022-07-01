@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmi e Strutture Dati/0. 📌 Formule e Convenzioni/Sommatorie.md",
+            "file": "Algoritmi e Strutture Dati/0. 📌 Appendici/A. Sommatorie.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmi e Strutture Dati/0. 📌 Formule e Convenzioni/Sommatorie.md",
+            "file": "Algoritmi e Strutture Dati/0. 📌 Appendici/A. Sommatorie.md",
             "mode": "preview",
             "source": false
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmi e Strutture Dati/0. 📌 Formule e Convenzioni/Sommatorie.md",
+                "file": "Algoritmi e Strutture Dati/0. 📌 Appendici/A. Sommatorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmi e Strutture Dati/0. 📌 Formule e Convenzioni/Sommatorie.md"
+                "file": "Algoritmi e Strutture Dati/0. 📌 Appendici/A. Sommatorie.md"
               }
             }
           }
@@ -133,10 +133,10 @@
   },
   "active": "d10b102ac0ece000",
   "lastOpenFiles": [
-    "Algoritmi e Strutture Dati/0. 📌 Formule e Convenzioni/Sommatorie.md",
-    "Algoritmi e Strutture Dati/0. 📌 Formule e Convenzioni/Approssimazioni.md",
-    "Algoritmi e Strutture Dati/0. 📌 Formule e Convenzioni/Cicli While.md",
-    "Algoritmi e Strutture Dati/0. 📌 Formule e Convenzioni/Convenzioni Pseudocodice.md",
+    "Algoritmi e Strutture Dati/0. 📌 Appendici/A. Sommatorie.md",
+    "Algoritmi e Strutture Dati/0. 📌 Appendici/Approssimazioni.md",
+    "Algoritmi e Strutture Dati/0. 📌 Appendici/Cicli While.md",
+    "Algoritmi e Strutture Dati/0. 📌 Appendici/Convenzioni Pseudocodice.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟣 Heap/2. Operazioni Heap.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟣 Heap/1. Descrizione Heap.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/1. Descrizione Alberi.md",
