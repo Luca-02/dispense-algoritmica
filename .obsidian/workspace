@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d10b102ac0ece000",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Algoritmi e Strutture Dati/0. 📌 Appendici/A. Sommatorie.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "group": "5ece4a4b697cc59a"
-      },
-      {
         "id": "b0eb262e18cf49fb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmi e Strutture Dati/0. 📌 Appendici/A. Sommatorie.md",
-            "mode": "preview",
+            "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟡 Vari/3. Algoritmo Logaritmico.md",
+            "mode": "source",
             "source": false
           }
-        },
-        "group": "5ece4a4b697cc59a"
+        }
       }
     ],
     "direction": "vertical"
@@ -84,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmi e Strutture Dati/0. 📌 Appendici/A. Sommatorie.md",
+                "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟡 Vari/3. Algoritmo Logaritmico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmi e Strutture Dati/0. 📌 Appendici/A. Sommatorie.md"
+                "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟡 Vari/3. Algoritmo Logaritmico.md"
               }
             }
           }
@@ -131,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d10b102ac0ece000",
+  "active": "b0eb262e18cf49fb",
   "lastOpenFiles": [
-    "Algoritmi e Strutture Dati/0. 📌 Appendici/A. Sommatorie.md",
-    "Algoritmi e Strutture Dati/0. 📌 Appendici/Approssimazioni.md",
-    "Algoritmi e Strutture Dati/0. 📌 Appendici/Cicli While.md",
-    "Algoritmi e Strutture Dati/0. 📌 Appendici/Convenzioni Pseudocodice.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟣 Heap/2. Operazioni Heap.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟣 Heap/1. Descrizione Heap.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/1. Descrizione Alberi.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/🔗Procedimenti Operazioni su Alberi.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟡 Code o Queue/1. Descrizione Code o Queue.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/3. Vari Algoritmi Stack.md"
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟡 Vari/3. Algoritmo Logaritmico.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟡 Vari/2. Matrice Simmetrica.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟡 Vari/1. Quanti elementi di A in B.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟠 Ricerca/2. Dicotomica.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟠 Ricerca/1. Sequenziale.md",
+    "Algoritmi e Strutture Dati/0. 📌 Appendici/B. Tempi dei Cicli While.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/Complessità Computazionale.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤵️ Limite Asintotico Inferiore.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤴️ Limite Asintotico Superiore.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/➡️ Limite Asintotico Stretto.md"
   ]
 }

@@ -69,6 +69,6 @@
 ***
 
 # 📌 Formule e Convenzioni
-- [ ] [[Cicli While]]
-- [ ] [[Convenzioni Pseudocodice]]
-- [ ] [[A. Sommatorie]]
+- [ ] [[B. Tempi dei Cicli While]]
+- [ ] [[A. Convenzioni Pseudocodice]]
+- [ ] [[C. Sommatorie]]
