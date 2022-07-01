@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/3. Vari Algoritmi Liste Concatenate.md",
+            "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/3. Vari Algoritmi Stack.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/3. Vari Algoritmi Liste Concatenate.md",
+                "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/3. Vari Algoritmi Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/3. Vari Algoritmi Liste Concatenate.md"
+                "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/3. Vari Algoritmi Stack.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "1cc72014d81b9e78",
   "lastOpenFiles": [
+    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/3. Vari Algoritmi Stack.md",
+    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/2. Implementazione e Operazioni Stack.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/3. Vari Algoritmi Liste Concatenate.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/2. Operazioni Liste Concatenate.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/1. Descrizione Liste Concatenate.md",
+    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/1. Descrizione Stack.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/📐 Operazioni sugli Insiemi Dinamici.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟣 Heap/2. Operazioni Heap.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/5.2. Quick Sort Randomizzato (D&I).md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟣 Heap/1. Descrizione Heap.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/4. Esercizi e Vari Algoritmi Alberi.md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/🤓 Metodo dell'Esperto.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/3. Operazioni con Alberi.md"
+    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟣 Heap/1. Descrizione Heap.md"
   ]
 }
