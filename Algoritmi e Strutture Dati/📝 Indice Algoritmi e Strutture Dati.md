@@ -6,15 +6,15 @@
 	- [ ] [[➡️ Limite Asintotico Stretto]]
 	- [ ] [[⤴️ Limite Asintotico Superiore]]
 	- [ ] [[⤵️ Limite Asintotico Inferiore]]
-2. **Algoritmi** di ***Ricerca***:
+2. **Algoritmi di Ricerca**:
 	- [ ] [[1. Sequenziale]]
 	- [ ] [[2. Dicotomica]]
-3. **Tempi di Algoritmi** ***Vari***:
+3. **Tempi di Algoritmi Vari**:
 	- [ ] [[1. Quanti elementi di A in B]]
 	- [ ] [[2. Matrice Simmetrica]]
 	- [ ] [[3. Algoritmo Logaritmico]]
 	- [ ] [[4. Cicli For Innestati]]
-4. **Algoritmi di** ***Sorting base***:
+4. **Algoritmi di Sorting "base"**:
 	- [ ] [[1. Selection Sort]]
 	- [ ] [[2. Bubble Sort]]
 	- [ ] [[3. Insertion Sort]]
@@ -35,7 +35,7 @@
 		- [ ] [[3. Max Array (D&I)]]
 		- [ ] [[4. Ricerca Dicotomica (D&I)]]
 		- [ ] [[5. Funzione Matematica (D&I)]]
-7. **Algoritmi** di ***Sorting "avanzati"***:
+7. **Algoritmi di Sorting "avanzati"**:
 	- [ ] [[4. Merge Sort (D&I)]]
 	- [ ] [[5. Quick Sort (D&I)]]
 	- [ ] [[5.2. Quick Sort Randomizzato (D&I)]]
@@ -55,6 +55,16 @@
 	- [ ] [[1. Descrizione Stack]]
 	- [ ] [[2. Implementazione e Operazioni Stack]]
 	- [ ] [[3. Vari Algoritmi Stack]]
+3. **Code o Queue**:
+	- [ ] [[1. Descrizione Code o Queue]]
+	- [ ] [[2. Implementazione e Operazioni Code]]
+	- [ ] [[3. Vari Algoritmi Code]]
+4. **Alberi**:
+	- [ ] [[1. Descrizione Alberi]]
+	- [ ] [[2. Visite degli Alberi]]
+	- [ ] [[3. Operazioni con Alberi]]
+	- [ ] [[4. Esercizi e Vari Algoritmi Alberi]]
+	- [ ] [[🔗Procedimenti Operazioni su Alberi]]
 
 ***
 

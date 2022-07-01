@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "063d6b5f614c93e7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/4. Esercizi e Vari Algoritmi Alberi.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "group": "d0ee511b5cbcc403"
-      },
-      {
         "id": "d10b102ac0ece000",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/4. Esercizi e Vari Algoritmi Alberi.md",
+            "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/5. Quick Sort (D&I).md",
             "mode": "preview",
             "source": false
           }
-        },
-        "group": "d0ee511b5cbcc403"
+        }
       }
     ],
     "direction": "vertical"
@@ -84,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/4. Esercizi e Vari Algoritmi Alberi.md",
+                "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/5. Quick Sort (D&I).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/4. Esercizi e Vari Algoritmi Alberi.md"
+                "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/5. Quick Sort (D&I).md"
               }
             }
           }
@@ -131,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "063d6b5f614c93e7",
+  "active": "d10b102ac0ece000",
   "lastOpenFiles": [
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/5. Quick Sort (D&I).md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/4. Merge Sort (D&I).md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/3. Insertion Sort.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/2. Bubble Sort.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/1. Selection Sort.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/⌚ Tempo Minimo per Ordinamento con Confronti.md",
+    "Algoritmi e Strutture Dati/📝 Indice Algoritmi e Strutture Dati.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/Algoritmi D&I/5. Funzione Matematica (D&I).md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/4. Esercizi e Vari Algoritmi Alberi.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/2. Visite degli Alberi.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/3. Operazioni con Alberi.md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/🤓 Metodo dell'Esperto.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/3. Vari Algoritmi Liste Concatenate.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/3. Vari Algoritmi Stack.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟡 Code o Queue/3. Vari Algoritmi Code.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟡 Code o Queue/2. Implementazione e Operazioni Code.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/🔗Procedimenti Operazioni su Alberi.md",
-    "Algoritmi e Strutture Dati/0. 📌 Formule e Convenzioni/Cicli While.md"
+    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/2. Visite degli Alberi.md"
   ]
 }
