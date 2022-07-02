@@ -65,10 +65,17 @@
 	- [ ] [[3. Operazioni con Alberi]]
 	- [ ] [[4. Esercizi e Vari Algoritmi Alberi]]
 	- [ ] [[🔗Procedimenti Operazioni su Alberi]]
+5. **Heap**:
+	- [ ] [[1. Descrizione Heap]]
+	- [ ] [[2. Operazioni Heap]]
+	- Algoritmo di ***Sorting con Heap***:
+		- [ ] [[8. Heap sort]]
 
+# Conclusione
 ***
 
-# 📌 Formule e Convenzioni
-- [ ] [[B. Tempi dei Cicli While]]
+# 📌 Appendici
 - [ ] [[A. Convenzioni Pseudocodice]]
+- [ ] [[B. Tempi dei Cicli While]]
 - [ ] [[C. Sommatorie]]
+- [ ] [[D. Approssimazioni]]
