@@ -72,6 +72,7 @@
 		- [ ] [[8. Heap sort]]
 
 # Conclusione
+[[🔍 Tabella riassuntiva delle complessità computazionali]]
 ***
 
 # 📌 Appendici

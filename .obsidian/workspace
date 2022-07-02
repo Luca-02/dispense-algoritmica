@@ -6,14 +6,30 @@
       {
         "id": "50d32322577a953c",
         "type": "leaf",
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmi e Strutture Dati/Tabella riassuntiva delle complessità computazionali..md",
+            "file": "Algoritmi e Strutture Dati/🔍 Tabella riassuntiva delle complessità computazionali.md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "5912cd5110a7dc97"
+      },
+      {
+        "id": "e2345c9177e2efda",
+        "type": "leaf",
+        "dimension": 50,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Algoritmi e Strutture Dati/🔍 Tabella riassuntiva delle complessità computazionali.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "5912cd5110a7dc97"
       }
     ],
     "direction": "vertical"
@@ -70,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmi e Strutture Dati/Tabella riassuntiva delle complessità computazionali..md",
+                "file": "Algoritmi e Strutture Dati/🔍 Tabella riassuntiva delle complessità computazionali.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmi e Strutture Dati/Tabella riassuntiva delle complessità computazionali..md"
+                "file": "Algoritmi e Strutture Dati/🔍 Tabella riassuntiva delle complessità computazionali.md"
               }
             }
           }
@@ -119,9 +135,9 @@
   },
   "active": "50d32322577a953c",
   "lastOpenFiles": [
-    "Algoritmi e Strutture Dati/Tabella riassuntiva delle complessità computazionali..md",
-    "Senza nome.md",
+    "Algoritmi e Strutture Dati/🔍 Tabella riassuntiva delle complessità computazionali.md",
     "Algoritmi e Strutture Dati/📝 Indice Algoritmi e Strutture Dati.md",
+    "Senza nome.md",
     "().md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/8. Heap sort.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/4. Merge Sort (D&I).md",
