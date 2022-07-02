@@ -62,7 +62,7 @@
 4. **Alberi**:
 	- [ ] [[1. Descrizione Alberi]]
 	- [ ] [[2. Visite degli Alberi]]
-	- [ ] [[3. Operazioni con Alberi]]
+	- [ ] [[3. Operazioni con Alberi Binari di Ricerca]]
 	- [ ] [[4. Esercizi e Vari Algoritmi Alberi]]
 	- [ ] [[🔗Procedimenti Operazioni su Alberi]]
 5. **Heap**:

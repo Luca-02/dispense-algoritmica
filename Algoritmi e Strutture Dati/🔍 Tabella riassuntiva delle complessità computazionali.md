@@ -11,4 +11,6 @@ I seguenti tempi sono calcolati in base al [limite asintotico superiore](obsidia
 | Coda        | $1$      | $n$      | $1^*$      | $n$      | $n$      | $n$      | $n$      | /        |
 | SBR bilanc. | $\log n$ | $\log n$ | $\log n$   | $\log n$ | $\log n$ | $\log n$ | $\log n$ | $\log n$ |
 
-
+>[!Note]
+>- Del. $x^* \rightarrow$  se si cancella il primo elemento;
+>- Update $\rightarrow$ update di un valore;
