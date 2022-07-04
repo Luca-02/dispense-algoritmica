@@ -1,6 +1,6 @@
 {
   "cssTheme": "Sanctum",
   "theme": "obsidian",
-  "translucency": true,
+  "translucency": false,
   "baseFontSize": 18
 }
