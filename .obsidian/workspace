@@ -7,12 +7,8 @@
         "id": "50d32322577a953c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Algoritmi e Strutture Dati/3. ⛏️ Passaggi Esercizi d'Esame/Senza nome.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmi e Strutture Dati/3. ⛏️ Passaggi Esercizi d'Esame/Senza nome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Algoritmi e Strutture Dati/3. ⛏️ Passaggi Esercizi d'Esame/Senza nome.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -121,14 +114,13 @@
   "active": "50d32322577a953c",
   "lastOpenFiles": [
     "Algoritmi e Strutture Dati/3. ⛏️ Passaggi Esercizi d'Esame/Senza nome.md",
+    "Algoritmi e Strutture Dati/3. ⛏️ Passaggi Esercizi d'Esame/BuildHeap.bmp",
+    "Algoritmi e Strutture Dati/3. ⛏️ Passaggi Esercizi d'Esame/Heap_Sort.bmp",
+    "Algoritmi e Strutture Dati/3. ⛏️ Passaggi Esercizi d'Esame/Counting_Sort.bmp",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/8. Heap sort.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟣 Heap/2. Operazioni Heap.md",
     "Algoritmi e Strutture Dati/🔍 Tabella riassuntiva delle complessità computazionali.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/5. Quick Sort (D&I).md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/7. Radix Sort.md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/6. Counting Sort.md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/4. Merge Sort (D&I).md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/3. Operazioni con Alberi Binari di Ricerca.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/2. Operazioni Liste Concatenate.md"
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/7. Radix Sort.md"
   ]
 }
