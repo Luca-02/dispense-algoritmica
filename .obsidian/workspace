@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/🤓 Metodo dell'Esperto.md",
+            "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/Algoritmi D&I/1. Conta Coppie (D&I).md",
             "mode": "preview",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/🤓 Metodo dell'Esperto.md",
+                "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/Algoritmi D&I/1. Conta Coppie (D&I).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/🤓 Metodo dell'Esperto.md"
+                "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/Algoritmi D&I/1. Conta Coppie (D&I).md"
               }
             }
           }
@@ -120,6 +120,8 @@
   },
   "active": "a0a05557a61e3f7b",
   "lastOpenFiles": [
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/Algoritmi D&I/1. Conta Coppie (D&I).md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/Algoritmi D&I/2. Conta Triple (D&I).md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/🤓 Metodo dell'Esperto.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/📃 Definizione Divide & Impera.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟢 Ricorsione/🔢 Calcolare i tempi Ricorsivi.md",
@@ -127,8 +129,6 @@
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟢 Ricorsione/⛏️ Definizioni e Funzioni Ricorsive.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟢 Ricorsione/Algoritmi Vari Ricorsivi/3. Algoritmi Ricorsivi Vari.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟢 Ricorsione/Algoritmi Vari Ricorsivi/2. Potenza.md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟢 Ricorsione/Algoritmi Vari Ricorsivi/1. Fattoriale.md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟡 Vari/4. Cicli For Innestati.md",
-    "Algoritmi e Strutture Dati/0. 📌 Appendici/C. Sommatorie.md"
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟢 Ricorsione/Algoritmi Vari Ricorsivi/1. Fattoriale.md"
   ]
 }
