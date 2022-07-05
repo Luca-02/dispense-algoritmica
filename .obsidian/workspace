@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/2. Operazioni Liste Concatenate.md",
+            "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟡 Vari/1. Quanti elementi di A in B.md",
             "mode": "preview",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/2. Operazioni Liste Concatenate.md",
+                "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟡 Vari/1. Quanti elementi di A in B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/2. Operazioni Liste Concatenate.md"
+                "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟡 Vari/1. Quanti elementi di A in B.md"
               }
             }
           }
@@ -120,15 +120,15 @@
   },
   "active": "a0a05557a61e3f7b",
   "lastOpenFiles": [
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/2. Operazioni Liste Concatenate.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/3. Vari Algoritmi Liste Concatenate.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/🔗Procedimenti Operazioni su Alberi.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/3. Operazioni con Alberi Binari di Ricerca.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟡 Vari/1. Quanti elementi di A in B.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟠 Ricerca/2. Dicotomica.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟠 Ricerca/1. Sequenziale.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/➡️ Limite Asintotico Stretto.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤵️ Limite Asintotico Inferiore.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤴️ Limite Asintotico Superiore.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/Complessità Computazionale.md",
     "Algoritmi e Strutture Dati/📝 Indice Algoritmi e Strutture Dati.md",
-    "Algoritmi e Strutture Dati/3. ⛏️ Passaggi Esercizi d'Esame/BuildHeap.bmp",
-    "Algoritmi e Strutture Dati/3. ⛏️ Passaggi Esercizi d'Esame/Senza nome.md",
-    "Algoritmi e Strutture Dati/3. ⛏️ Passaggi Esercizi d'Esame/Heap_Sort.bmp",
-    "Algoritmi e Strutture Dati/3. ⛏️ Passaggi Esercizi d'Esame/Counting_Sort.bmp",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/8. Heap sort.md"
+    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/2. Operazioni Liste Concatenate.md",
+    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/3. Vari Algoritmi Liste Concatenate.md"
   ]
 }
