@@ -6,30 +6,14 @@
       {
         "id": "a0a05557a61e3f7b",
         "type": "leaf",
-        "dimension": 51.96808510638298,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmi e Strutture Dati/📝 Indice Algoritmi e Strutture Dati.md",
-            "mode": "preview",
+            "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟣 Heap/1. Descrizione Heap.md",
+            "mode": "source",
             "source": false
           }
-        },
-        "group": "26ae67cd2c7720e6"
-      },
-      {
-        "id": "ed666121cb8d8ba5",
-        "type": "leaf",
-        "dimension": 48.03191489361702,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Algoritmi e Strutture Dati/📝 Indice Algoritmi e Strutture Dati.md",
-            "mode": "preview",
-            "source": false
-          }
-        },
-        "group": "26ae67cd2c7720e6"
+        }
       }
     ],
     "direction": "vertical"
@@ -70,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 290.5
   },
   "right": {
     "id": "de2bb8d823be66fe",
@@ -86,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmi e Strutture Dati/📝 Indice Algoritmi e Strutture Dati.md",
+                "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟣 Heap/1. Descrizione Heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmi e Strutture Dati/📝 Indice Algoritmi e Strutture Dati.md"
+                "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟣 Heap/1. Descrizione Heap.md"
               }
             }
           }
@@ -136,15 +120,15 @@
   },
   "active": "a0a05557a61e3f7b",
   "lastOpenFiles": [
-    "Algoritmi e Strutture Dati/📝 Indice Algoritmi e Strutture Dati.md",
+    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟣 Heap/1. Descrizione Heap.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/4. Esercizi e Vari Algoritmi Alberi.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/🤓 Metodo dell'Esperto.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/3. Operazioni con Alberi Binari di Ricerca.md",
+    "Algoritmi e Strutture Dati/📝 Indice Algoritmi e Strutture Dati.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/2. Visite degli Alberi.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/1. Descrizione Alberi.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/🔗Procedimenti Operazioni su Alberi.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟡 Code o Queue/3. Vari Algoritmi Code.md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤵️ Limite Asintotico Inferiore.md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤴️ Limite Asintotico Superiore.md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/➡️ Limite Asintotico Stretto.md"
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤵️ Limite Asintotico Inferiore.md"
   ]
 }
