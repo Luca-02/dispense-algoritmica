@@ -6,12 +6,12 @@
       {
         "id": "a0a05557a61e3f7b",
         "type": "leaf",
-        "dimension": 51.8796992481203,
+        "dimension": 51.96808510638298,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/1. Descrizione Alberi.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         },
@@ -20,7 +20,7 @@
       {
         "id": "ed666121cb8d8ba5",
         "type": "leaf",
-        "dimension": 48.1203007518797,
+        "dimension": 48.03191489361702,
         "state": {
           "type": "markdown",
           "state": {
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "right": {
     "id": "de2bb8d823be66fe",
