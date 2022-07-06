@@ -6,28 +6,30 @@
       {
         "id": "a0a05557a61e3f7b",
         "type": "leaf",
+        "dimension": 51.8796992481203,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/➡️ Limite Asintotico Stretto.md",
+            "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/1. Descrizione Alberi.md",
             "mode": "source",
             "source": false
           }
         },
-        "group": "fd5587ac1ec0c57c"
+        "group": "26ae67cd2c7720e6"
       },
       {
-        "id": "8ecca68278d850ef",
+        "id": "ed666121cb8d8ba5",
         "type": "leaf",
+        "dimension": 48.1203007518797,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/➡️ Limite Asintotico Stretto.md",
+            "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/1. Descrizione Alberi.md",
             "mode": "preview",
             "source": false
           }
         },
-        "group": "fd5587ac1ec0c57c"
+        "group": "26ae67cd2c7720e6"
       }
     ],
     "direction": "vertical"
@@ -68,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 283.5
   },
   "right": {
     "id": "de2bb8d823be66fe",
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/➡️ Limite Asintotico Stretto.md",
+                "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/1. Descrizione Alberi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/➡️ Limite Asintotico Stretto.md"
+                "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/1. Descrizione Alberi.md"
               }
             }
           }
@@ -134,15 +136,15 @@
   },
   "active": "a0a05557a61e3f7b",
   "lastOpenFiles": [
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/➡️ Limite Asintotico Stretto.md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤴️ Limite Asintotico Superiore.md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤵️ Limite Asintotico Inferiore.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟡 Code o Queue/1. Descrizione Code o Queue.md",
+    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/1. Descrizione Alberi.md",
+    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/🔗Procedimenti Operazioni su Alberi.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟡 Code o Queue/3. Vari Algoritmi Code.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤵️ Limite Asintotico Inferiore.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤴️ Limite Asintotico Superiore.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/➡️ Limite Asintotico Stretto.md",
+    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟡 Code o Queue/1. Descrizione Code o Queue.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟡 Code o Queue/2. Implementazione e Operazioni Code.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/3. Vari Algoritmi Stack.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/2. Implementazione e Operazioni Stack.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/1. Descrizione Stack.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/3. Vari Algoritmi Liste Concatenate.md"
+    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/2. Implementazione e Operazioni Stack.md"
   ]
 }
