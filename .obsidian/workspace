@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "right": {
     "id": "de2bb8d823be66fe",
@@ -121,11 +122,11 @@
   "active": "a0a05557a61e3f7b",
   "lastOpenFiles": [
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟡 Vari/1. Quanti elementi di A in B.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/3. Insertion Sort.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟠 Ricerca/2. Dicotomica.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟠 Ricerca/1. Sequenziale.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/1. Selection Sort.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/2. Bubble Sort.md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/3. Insertion Sort.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/4. Merge Sort (D&I).md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/3. Vari Algoritmi Stack.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟣 Heap/2. Operazioni Heap.md",
