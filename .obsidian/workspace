@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmi e Strutture Dati/0. 📌 Appendici/A. Convenzioni Pseudocodice.md",
+            "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟣 Heap/1. Descrizione Heap.md",
             "mode": "preview",
             "source": false
           }
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "right": {
     "id": "de2bb8d823be66fe",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmi e Strutture Dati/0. 📌 Appendici/A. Convenzioni Pseudocodice.md",
+                "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟣 Heap/1. Descrizione Heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmi e Strutture Dati/0. 📌 Appendici/A. Convenzioni Pseudocodice.md"
+                "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟣 Heap/1. Descrizione Heap.md"
               }
             }
           }
@@ -120,6 +121,7 @@
   },
   "active": "a0a05557a61e3f7b",
   "lastOpenFiles": [
+    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟣 Heap/1. Descrizione Heap.md",
     "Algoritmi e Strutture Dati/0. 📌 Appendici/A. Convenzioni Pseudocodice.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/8. Heap sort.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/7. Radix Sort.md",
@@ -128,7 +130,6 @@
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/5.2. Quick Sort Randomizzato (D&I).md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/4. Merge Sort (D&I).md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/3. Insertion Sort.md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/2. Bubble Sort.md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/1. Selection Sort.md"
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/2. Bubble Sort.md"
   ]
 }
