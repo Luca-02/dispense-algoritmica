@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/2. Visite degli Alberi.md",
+            "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/3. Vari Algoritmi Stack.md",
             "mode": "preview",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/2. Visite degli Alberi.md",
+                "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/3. Vari Algoritmi Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/2. Visite degli Alberi.md"
+                "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/3. Vari Algoritmi Stack.md"
               }
             }
           }
@@ -121,6 +121,8 @@
   },
   "active": "a0a05557a61e3f7b",
   "lastOpenFiles": [
+    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/3. Vari Algoritmi Stack.md",
+    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟣 Heap/2. Operazioni Heap.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/2. Visite degli Alberi.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟢 Alberi/🔗Procedimenti Operazioni su Alberi.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟣 Heap/1. Descrizione Heap.md",
@@ -128,8 +130,6 @@
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/🤓 Metodo dell'Esperto.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤵️ Limite Asintotico Inferiore.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤴️ Limite Asintotico Superiore.md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/Algoritmi D&I/2. Conta Triple (D&I).md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/Algoritmi D&I/3. Max Array (D&I).md",
-    "Algoritmi e Strutture Dati/0. 📌 Appendici/A. Convenzioni Pseudocodice.md"
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/Algoritmi D&I/2. Conta Triple (D&I).md"
   ]
 }
