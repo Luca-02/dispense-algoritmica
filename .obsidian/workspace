@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/5. Quick Sort (D&I).md",
+            "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/🤓 Metodo dell'Esperto.md",
             "mode": "preview",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/5. Quick Sort (D&I).md",
+                "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/🤓 Metodo dell'Esperto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/5. Quick Sort (D&I).md"
+                "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/🤓 Metodo dell'Esperto.md"
               }
             }
           }
@@ -120,6 +120,7 @@
   },
   "active": "a0a05557a61e3f7b",
   "lastOpenFiles": [
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/🤓 Metodo dell'Esperto.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/5. Quick Sort (D&I).md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟡 Code o Queue/2. Implementazione e Operazioni Code.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟡 Code o Queue/1. Descrizione Code o Queue.md",
@@ -128,7 +129,6 @@
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/2. Operazioni Liste Concatenate.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/3. Vari Algoritmi Liste Concatenate.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟡 Vari/3. Algoritmo Logaritmico.md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟡 Vari/4. Cicli For Innestati.md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟡 Vari/1. Quanti elementi di A in B.md"
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟡 Vari/4. Cicli For Innestati.md"
   ]
 }
