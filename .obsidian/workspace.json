@@ -33,8 +33,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/3. Vari Algoritmi Stack.md",
-                "mode": "source",
+                "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/🤓 Metodo dell'Esperto.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/3. Vari Algoritmi Stack.md",
+                "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/🤓 Metodo dell'Esperto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/3. Vari Algoritmi Stack.md"
+                "file": "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/🤓 Metodo dell'Esperto.md"
               }
             }
           }
@@ -168,6 +168,18 @@
   },
   "active": "3736d1f640ffda1d",
   "lastOpenFiles": [
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/Algoritmi D&I/5. Funzione Matematica (D&I).md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/Algoritmi D&I/1. Conta Coppie (D&I).md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/Algoritmi D&I/2. Conta Triple (D&I).md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/📃 Definizione Divide & Impera.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟢 Ricorsione/Albero di Ricorsione.png",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟢 Ricorsione/🔢 Calcolare i tempi Ricorsivi.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟢 Ricorsione/🔃 Da Funzione a Algoritmo.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟢 Ricorsione/⛏️ Definizioni e Funzioni Ricorsive.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟢 Ricorsione/Algoritmi Vari Ricorsivi/3. Algoritmi Ricorsivi Vari.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟢 Ricorsione/Algoritmi Vari Ricorsivi/2. Potenza.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟢 Ricorsione/Algoritmi Vari Ricorsivi/1. Fattoriale.md",
+    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/3. Vari Algoritmi Stack.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/2. Implementazione e Operazioni Stack.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/1. Descrizione Stack.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/2. Operazioni Liste Concatenate.md",
@@ -177,7 +189,6 @@
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤴️ Limite Asintotico Superiore.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/➡️ Limite Asintotico Stretto.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟡 Code o Queue/2. Implementazione e Operazioni Code.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟡 Code o Queue/1. Descrizione Code o Queue.md",
-    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟠Pile o Stack/3. Vari Algoritmi Stack.md"
+    "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🟡 Code o Queue/1. Descrizione Code o Queue.md"
   ]
 }
