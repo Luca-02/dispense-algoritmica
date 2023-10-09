@@ -29,8 +29,16 @@ Date due sequenze X e Y, rispettivamente di m ed n numeri interi, e un naturale 
 - **Caso base**:
 	Il caso base si ha in due situazioni differenti
 	1. $(i, j, r)$ con $i = 0 \lor j = 0$
-	2.  $(i, j, r)$ con $i > 0 \land j > 0 \land r = 0$ tale che $x_i = y_j \land φ(x_i) = φ(y_j) = rosso$
+$$ci,j,r = true \quad\text{se } i = 0 ∨ j = 0$$
+	1.  $(i, j, r)$ con $i > 0 \land j > 0 \land r = 0$ tale che $x_i = y_j \land φ(x_i) = φ(y_j) = rosso$
+$$ci,j,r = false \quad\text{se } i > 0 \land j > 0 \land r = 0 \land x_i = y_j \land φ(x_i) = φ(y_j) = rosso$$
 
+$$c_{i, j, r} = 
+\begin {cases} 
+true & \text{se } i = 0 ∨ j = 0 \\
+false \text{se } i > 0 \land j > 0 \land r = 0 \land x_i = y_j \land φ(x_i) = φ(y_j) = rosso
+\end {cases}
+$$
 - **Passo ricorsivo**: $(i, j)$ con $i$ > 0 e $j$ > 0
 
 ---
