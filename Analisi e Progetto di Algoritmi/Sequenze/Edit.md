@@ -32,3 +32,29 @@ tre possibilità per minOP(i, j)
 3. inserimento(yj) + minOP(i, j-1) -> 1 + di,j-1
 
 di,j = min(di-1,j-1 + 1, di-1,j + 1, di,j-1 + 1)
+
+---
+
+## Algoritmo ricorsivo
+
+``` Pseudocodice TI:"Distanza di Edit" "FOLD"
+int EDricorsiva(i, j)
+	if i = 0 ⋁ j = 0 then
+		return caso base
+	else
+		d[i - 1, j - 1] = EDricorsiva(i - 1, j - 1)
+		if xi = yj then
+			return d[i-1, j-1]
+		else
+			d[i - 1, j] = EDricorsiva(i - 1, j)
+			d[i, j - 1] = EDricorsiva(i, j - 1)
+			return min(d[i - 1, j - 1] + 1, d[i - 1, j] + 1, d[i, j - 1] + 1)
+```
+
+---
+
+## Algoritmo DP
+
+1. Costruzione di una matrice D[0…m, 0…n]
+2. Riempimento di D in modo tale che D[i,j] = di,j per 0 ≤ i ≤ m e 0 ≤ j ≤ n
+3. Soluzione di PR à D[m,n]
