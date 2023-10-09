@@ -1,4 +1,4 @@
-date due #sequenze $X$ e $Y$ , rispettivamente di $m$ ed $n$ numeri interi, si determini **UNA** tra le più lunghe sottosequenze comuni a $X$ e $Y$.
+date due sequenze $X$ e $Y$ , rispettivamente di $m$ ed $n$ numeri interi, si determini **UNA** tra le più lunghe sottosequenze comuni a $X$ e $Y$.
 
 ---
 ## Sottoproblemi

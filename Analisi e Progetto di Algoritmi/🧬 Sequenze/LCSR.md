@@ -9,21 +9,27 @@
 >$$<r, r, b, b, g, r, g, g, r>$$
 >
 
-date due sequenze X e Y , rispettivamente di m e n numeri interi, e un naturale R, stabilire se tutte le più lunghe sottosequenze comuni a X e Y contengono al più R elementi colorati di rosso.
+Date due sequenze X e Y , rispettivamente di m e n numeri interi, e un naturale R, stabilire se tutte le più lunghe sottosequenze comuni a X e Y contengono al più R elementi colorati di rosso.
 
 --- 
 ## Sottoproblemi
 
-date due sequenze X e Y, rispettivamente di m ed n numeri interi, e un naturale r, stabilire se tutte le più lunghe sottosequenze comuni a Xi e Yj contengono al più r elementi colorati di rosso
+Date due sequenze X e Y, rispettivamente di m ed n numeri interi, e un naturale r, stabilire se tutte le più lunghe sottosequenze comuni a Xi e Yj contengono al più r elementi colorati di rosso.
 
-**Numero di sottoproblemi**:
-**Soluzione del problema**:
+- Considerato il sottoproblema di dimensione (i, j, r), la variabile ad esso associata è ci,j,r ed è così definita:
+	- ci,j,r = true se e solo se tutte le più lunghe sottosequenze comuni a Xi e Yj contengono al più r elementi colorati di rosso, false altrimenti
+
+**Numero di sottoproblemi**: $(m+1)(n+1)(R+1)$
+**Soluzione del problema**: $(m, n, R)$
 
 ---
 
 ## Equazioni di ricorrenza
 
-- **Caso base**: $(i, j)$ con $i = 0 \lor j = 0$
+- **Caso base**:
+	Il caso base si ha in due situazioni differenti
+	1. $(i, j, r)$ con $i = 0 \lor j = 0$
+	2.  $(i, j, r)$ con $i > 0 \land j > 0 \land r = 0$ tale che $x_i = y_j \land φ(x_i) = φ(y_j) = rosso$
 
 - **Passo ricorsivo**: $(i, j)$ con $i$ > 0 e $j$ > 0
 
