@@ -1,18 +1,20 @@
+>[!Premise]
+>Sia C un insieme di colori. Gli elementi della sequenza considerata in questo esercizio sono numeri naturali colorati. La funzione di colorazione è definita nel seguente modo: 
+>$$φ : N → C$$
+>Per esempio, data la funzione:
+>$$φ(x) = \begin {cases} rosso & \text{se } x < 5 \\blu & \text{se } 5 <= x <= 10 \\ verde & \text{se } x > 10 \\ \end {cases}$$
+>la sequenza  
+>$$X = <2, 4, 7, 6, 11, 3, 21, 14, 1>$$
+>sarà colorata nel seguente modo: 
+>$$<r, r, b, b, g, r, g, g, r>$$
+>
 
-#### Premessa
-Sia C un insieme di colori. Gli elementi della sequenza considerata in questo esercizio sono numeri naturali colorati. La funzione di colorazione è definita nel seguente modo:
-$$φ : N → C$$Per esempio, data la funzione:
-$$φ(x) = 
-\begin {cases} 
-rosso x < 5 & \text{se } x_i = y_j \\
-\max{c_{i,j-1}, c_{i-1,j}} & \text{se } x_i \neq y_j
-\end {cases}
-$$
+date due sequenze X e Y , rispettivamente di m e n numeri interi, e un naturale R, stabilire se tutte le più lunghe sottosequenze comuni a X e Y contengono al più R elementi colorati di rosso.
 
----
-## Sottoproble
+--- 
+## Sottoproblemi
 
-
+date due sequenze X e Y, rispettivamente di m ed n numeri interi, e un naturale r, stabilire se tutte le più lunghe sottosequenze comuni a Xi e Yj contengono al più r elementi colorati di rosso
 
 **Numero di sottoproblemi**:
 **Soluzione del problema**:

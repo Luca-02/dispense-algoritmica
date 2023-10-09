@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "09f6895d575465cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analisi e Progetto di Algoritmi/🧬 Sequenze/LCS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#struttura",
+                "query": "tag:#sequenze",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/🧬 Sequenze/LCSR.md",
+                "file": "Analisi e Progetto di Algoritmi/🧬 Sequenze/LCS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/🧬 Sequenze/LCSR.md"
+                "file": "Analisi e Progetto di Algoritmi/🧬 Sequenze/LCS.md"
               }
             }
           }
@@ -146,10 +158,11 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "247f14bf8d3ef1b0",
+  "active": "09f6895d575465cb",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/🧬 Sequenze/LCS.md",
     "Analisi e Progetto di Algoritmi/🧬 Sequenze/LCSR.md",
+    "Analisi e Progetto di Algoritmi/🧬 Sequenze/LCS.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/3. Insertion Sort.md",
     "Analisi e Progetto di Algoritmi/🧬 Sequenze/Distanza di edit.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/4. Merge Sort (D&I).md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/1. Selection Sort.md",
@@ -168,7 +181,6 @@
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/5. Quick Sort (D&I).md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/7. Radix Sort.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/5.2. Quick Sort Randomizzato (D&I).md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/3. Insertion Sort.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/3. Vari Algoritmi Liste Concatenate.md",
     "Algoritmi e Strutture Dati/2. 🔩 Strutture Dati/🔴 Liste Concatenate/1. Descrizione Liste Concatenate.md",
     "Algoritmi e Strutture Dati/3. ⛏️ Passaggi Esercizi d'Esame/BuildHeap.jpg",
