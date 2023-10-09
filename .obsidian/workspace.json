@@ -11,8 +11,12 @@
             "id": "68f361eceb06f473",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Analisi e Progetto di Algoritmi/🧬 Sequenze/1. LCS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Analisi e Progetto di Algoritmi/🧬 Sequenze/1. LCS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,11 +121,12 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Analisi e Progetto di Algoritmi/🧬 Sequenze/1. LCS.md"
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,10 +146,12 @@
   },
   "active": "68f361eceb06f473",
   "lastOpenFiles": [
+    "Algoritmi e Strutture Dati/📝 Indice Algoritmi e Strutture Dati.md",
+    "Senza nome 1.canvas",
+    "Senza nome.canvas",
+    "Analisi e Progetto di Algoritmi/🧬 Sequenze/3. Distanza di edit.md",
     "Analisi e Progetto di Algoritmi/🧬 Sequenze/2. LCSR.md",
     "Analisi e Progetto di Algoritmi/🧬 Sequenze/1. LCS.md",
-    "Analisi e Progetto di Algoritmi/🧬 Sequenze/3. Distanza di edit.md",
-    "Senza nome.canvas",
     "Algoritmi e Strutture Dati/Pasted image 20231009195423.png",
     "Algoritmi e Strutture Dati/Pasted image 20231009195421.png",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/1. Selection Sort.md",
@@ -157,7 +165,6 @@
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟢 Ricorsione/Algoritmi Vari Ricorsivi/2. Potenza.md",
     "Senza nome 3.canvas",
     "Senza nome 2.canvas",
-    "Senza nome 1.canvas",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/8. Heap sort.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟢 Ricorsione/Algoritmi Vari Ricorsivi/3. Algoritmi Ricorsivi Vari.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/6. Counting Sort.md",
