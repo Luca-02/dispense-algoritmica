@@ -38,13 +38,12 @@
               "type": "markdown",
               "state": {
                 "file": "Analisi e Progetto di Algoritmi/🧬 Sequenze/3. Distanza di edit.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/🧬 Sequenze/3. Distanza di edit.md",
+                "file": "Analisi e Progetto di Algoritmi/🧬 Sequenze/1. LCS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/🧬 Sequenze/3. Distanza di edit.md"
+                "file": "Analisi e Progetto di Algoritmi/🧬 Sequenze/1. LCS.md"
               }
             }
           }
@@ -169,14 +168,15 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "7ca205b78726b204",
+  "active": "68f361eceb06f473",
   "lastOpenFiles": [
     "Analisi e Progetto di Algoritmi/🧬 Sequenze/2. LCSR.md",
+    "Analisi e Progetto di Algoritmi/🧬 Sequenze/3. Distanza di edit.md",
     "Analisi e Progetto di Algoritmi/🧬 Sequenze/1. LCS.md",
+    "Algoritmi e Strutture Dati/Pasted image 20231010000136.png",
     "Algoritmi e Strutture Dati/📝 Indice Algoritmi e Strutture Dati.md",
     "Senza nome 1.canvas",
     "Senza nome.canvas",
-    "Analisi e Progetto di Algoritmi/🧬 Sequenze/3. Distanza di edit.md",
     "Algoritmi e Strutture Dati/Pasted image 20231009195423.png",
     "Algoritmi e Strutture Dati/Pasted image 20231009195421.png",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/1. Selection Sort.md",
@@ -204,7 +204,6 @@
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/🤓 Metodo dell'Esperto.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/Algoritmi D&I/5. Funzione Matematica (D&I).md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/Algoritmi D&I/3. Max Array (D&I).md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/Algoritmi D&I/2. Conta Triple (D&I).md",
     "Analisi e Progetto di Algoritmi/🧬 Sequenze",
     "Analisi e Progetto di Algoritmi",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟢 Ricorsione/Albero di Ricorsione.png"
