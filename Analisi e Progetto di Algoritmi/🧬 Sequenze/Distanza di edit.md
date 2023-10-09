@@ -1,4 +1,8 @@
-date due #sequenze X e Y, trovare il minimo insieme di operazioni di cancellazione, inserimento e sostituzione (distanza di edit) che trasformano X in Y.
+Date due #sequenze X e Y, trovare il minimo insieme di operazioni di cancellazione, inserimento e sostituzione (distanza di edit) che trasformano X in Y.
+
+>[!Note]
+Questo algoritmo è noto anche come distanza di Levenshtein.
+>
 
 ---
 
@@ -37,7 +41,7 @@ di,j = min(di-1,j-1 + 1, di-1,j + 1, di,j-1 + 1)
 
 ## Algoritmo ricorsivo
 
-``` Pseudocodice TI:"Distanza di Edit" "FOLD"
+``` Pseudocodice TI:"EDricorsiva" "FOLD"
 int EDricorsiva(i, j)
 	if i = 0 ⋁ j = 0 then
 		return caso base
@@ -62,8 +66,8 @@ int EDricorsiva(i, j)
 2. Riempimento di D in modo tale che D[i, j] = di,j per 0 ≤ i ≤ m e 0 ≤ j ≤ n
 3. Soluzione di PR à D[m, n]
 
-``` Pseudocodice TI:"Edit" "FOLD"
-int distanza_edit(X, Y) 
+``` Pseudocodice TI:"ED" "FOLD"
+int ED(X, Y) 
 	for i from 0 to m do 
 		D[i, 0] = i 
 	for j from 0 to n do
@@ -100,7 +104,7 @@ d0,j = j = (j-1) + 1 = d0,j-1 + 1 -> insertion(yj) before x1
 
 ##### Versione iterativa
 
-``` Pseudocodice TI:"Distanza di Edit" "FOLD"
+``` Pseudocodice TI:"ricostruisci_minOP" "FOLD"
 List ricostruisci_minOP(X, Y) 
 	minOp = empty list
 	i = m
@@ -122,7 +126,7 @@ List ricostruisci_minOP(X, Y)
 
 ##### Versione ricorsiva
 
-``` Pseudocodice TI:"Distanza di Edit" "FOLD"
+``` Pseudocodice TI:"Ricostruisci_minOP_ricorsiva" "FOLD"
 void Ricostruisci_minOP_ricorsiva(D, i, j)
 	if i >= 0 or j >= 0 then 
 		if from diagonal then 
