@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "089510bb11055f14",
+        "id": "f63b4a0b20f0c618",
         "type": "tabs",
         "children": [
           {
-            "id": "e37f82b43e77253d",
+            "id": "69c935aca5f6aa21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. Distanza di edit.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCSR.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8fabf400b6877409",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "016a0c80be78a637",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. Distanza di edit.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -104,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. Distanza di edit.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCSR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. Distanza di edit.md"
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCSR.md"
               }
             }
           }
@@ -162,11 +144,11 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "016a0c80be78a637",
+  "active": "69c935aca5f6aa21",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231010011639.png",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. Distanza di edit.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
+    "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231010011639.png",
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟢 Ricorsione/Albero di Ricorsione.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231010005928.png",
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟤 Sorting/5. Quick Sort (D&I).md",
