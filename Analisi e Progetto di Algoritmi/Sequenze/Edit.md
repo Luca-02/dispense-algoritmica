@@ -21,5 +21,14 @@ Trovare la distanza di edit dei prefissi Xi e Y
 $$ d_{i,j} = 0 \quad\text{se } i = 0 \land j = 0 $$
 $$ d_{i,j} = i \quad\text{se } i > 0 \land j = 0 $$
 $$ d_{i,j} = j \quad\text{se } i = 0 \land j > 0 $$
+- **Passo ricorsivo**: $(i, j)$ con $i$ > 0 e $j$ > 0
+i > 0 ⋀ j > 0 ⋀ xi = y
+minOP(i, j) = minOP(i-1, j-1) -> di,j = di-1,j-1
 
- **Passo ricorsivo**: $(i, j)$ con $i$ > 0 e $j$ > 0
+i > 0 ⋀ j > 0 ⋀ xi ≠ yj
+tre possibilità per minOP(i, j)
+1. sostituzione(xi -> yj) + minOP(i-1, j-1) -> 1 + di-1,j-1
+2. cancellazione(xi) + minOP(i-1, j) -> 1 + di-1,j
+3. inserimento(yj) + minOP(i, j-1) -> 1 + di,j-1
+
+di,j = min(di-1,j-1 + 1, di-1,j + 1, di,j-1 + 1)
