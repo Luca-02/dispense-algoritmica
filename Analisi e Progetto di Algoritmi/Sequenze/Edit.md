@@ -90,3 +90,8 @@ int calcola_ED(X,Y)
 - Per ogni D[i,j] visitata si aggiunge (eventualmente) un operazione a minOP 
 - Da D[i,j] si passa alla cella che ne ha determinato il calcolo (in base al passo ricorsivo) 
 - Al termine del percorso, minOP = minOP(X,Y)
+
+di,j = di-1,j-1 -> “null operation”
+di,j = di-1,j-1 + 1 -> substitution(xi -> yj)
+di,j = di-1,j + 1 -> deletion(xi)
+di,j = di,j-1 + 1 -> insertion(yj) after xi
