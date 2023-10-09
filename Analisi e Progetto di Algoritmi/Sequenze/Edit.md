@@ -1,23 +1,23 @@
-date due sequenze X e Y, trovare il minimo insieme di operazioni di cancellazione, inserimento e sostituzione (distanza di edit) che trasformano X in Y
+date due #sequenze X e Y, trovare il minimo insieme di operazioni di cancellazione, inserimento e sostituzione (distanza di edit) che trasformano X in Y.
 
 ---
 
 ## Sottoproble
 
-Trovare la distanza di edit dei prefissi Xi e Y
+Trovare la distanza di edit dei prefissi Xi e Yj.
 
 - Considerato il sottoproblema di dimensione $(i, j)$, la `variabile` ad esso associata è $d_{i,j}$ ed è così definita:
 	- $d_{i,j}$ = $|ED(X_i, Y_j)|$
 	- $d_{i,j}$ = distanza di edit dei prefissi $X_i$ e $Y_j$
 
-- Numero di sottoproblemi: $(m+1)(n+1)$
-##### Soluzione del problema: $d_{m, n}$
+**Numero di sottoproblemi**: $(m+1)(n+1)$
+**Soluzione del problema**: $d_{m, n}$
 
 ---
 
 ## Equazioni di ricorrenza
 
-- **Caso base**: $(i, j)$ con $i = 0 ∨ j = 0$
+- **Caso base**: $(i, j)$ con $i = 0 \lor j = 0$
 $$ d_{i,j} = 0 \quad\text{se } i = 0 \land j = 0 $$
 $$ d_{i,j} = i \quad\text{se } i > 0 \land j = 0 $$
 $$ d_{i,j} = j \quad\text{se } i = 0 \land j > 0 $$
@@ -65,19 +65,19 @@ int EDricorsiva(i, j)
 ``` Pseudocodice TI:"Edit" "FOLD"
 int distanza_edit(X, Y) 
 	for i from 0 to m do 
-		D[i,0] = i 
+		D[i, 0] = i 
 	for j from 0 to n do
-		D[0,j] = j 
+		D[0, j] = j 
 	for i from 1 to m do
 		for j from 1 to n do 
-			if xi = yj then
-				D[i,j] = D[i-1,j-1] 
+			if x[i] = y[j] then
+				D[i, j] = D[i - 1, j - 1] 
 			else 
 				a = D[i - 1, j - 1] + 1
 				b = D[i - 1, j] + 1
 				c = D[i, j - 1] + 1
-				D[i,j] = min(a, b, c) 
-	return D[m,n]
+				D[i, j] = min(a, b, c) 
+	return D[m, n]
 ```
 
 ---
@@ -107,10 +107,10 @@ List ricostruisci_minOP(X, Y)
 	j = n 
 	while i >= 0 or j >= 0 then 
 		if from diagonal then 
-			if xi ≠ yj then 
-				append substitution(xiàyj) to minOP 
-			i = i-1 
-			j = j-1 
+			if xi != yj then 
+				append substitution(x[i] -> y[j]) to minOP 
+			i = i - 1 
+			j = j - 1 
 		else 
 			if from left then 
 				append deletion(x[i]) to minOP 
