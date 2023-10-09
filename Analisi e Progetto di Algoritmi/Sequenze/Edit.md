@@ -62,15 +62,15 @@ int EDricorsiva(i, j)
 2. Riempimento di D in modo tale che D[i, j] = di,j per 0 ≤ i ≤ m e 0 ≤ j ≤ n
 3. Soluzione di PR à D[m, n]
 
-``` Pseudocodice TI:"Distanza di Edit" "FOLD"
-int calcola_ED(X,Y) 
+``` Pseudocodice TI:"Edit" "FOLD"
+int distanza_edit(X, Y) 
 	for i from 0 to m do 
 		D[i,0] = i 
-	for j from 0 to n 
+	for j from 0 to n do
 		D[0,j] = j 
-	for i from 1 to m 
-		for j from 1 to n 
-			if xi = yj 
+	for i from 1 to m do
+		for j from 1 to n do 
+			if xi = yj then
 				D[i,j] = D[i-1,j-1] 
 			else 
 				a = D[i - 1, j - 1] + 1
@@ -100,10 +100,40 @@ d0,j = j = (j-1) + 1 = d0,j-1 + 1 -> insertion(yj) before x1
 
 ##### Versione iterativa
 
-List Ricostruisci_minOP(X,Y) 
-	minOp = empty list 
-	i = m, j = n 
+``` Pseudocodice TI:"Distanza di Edit" "FOLD"
+List ricostruisci_minOP(X, Y) 
+	minOp = empty list
+	i = m
+	j = n 
 	while i >= 0 or j >= 0 then 
 		if from diagonal then 
 			if xi ≠ yj then 
-				append substitution(xiàyj) to minOP i = i-1, j = j-1 else if from left then append deletion(xi) to minOP i = i-1 else append insertion(yj) to minOP j = j-1
+				append substitution(xiàyj) to minOP 
+			i = i-1 
+			j = j-1 
+		else 
+			if from left then 
+				append deletion(x[i]) to minOP 
+				i = i - 1 
+			else 
+				append insertion(y[j]) to minOP 
+				j = j - 1
+```
+
+##### Versione ricorsiva
+
+``` Pseudocodice TI:"Distanza di Edit" "FOLD"
+void Ricostruisci_minOP_ricorsiva(D, i, j)
+	if i >= 0 or j >= 0 then 
+		if from diagonal then 
+			if x[i] != y[j] then 
+				append substitution(x[i] -> y[j]) to minOP 
+			RicostruisciLCSricorsiva(D, i - 1, j - 1) 
+		else 
+			if from left then 
+				append insertion(yj) to minOP 
+				RicostruisciLCSricorsiva(D, i - 1, j) 
+			else 
+				append deletion(xi) to minOP 
+				RicostruisciLCSricorsiva(D, i, j - 1)
+```
