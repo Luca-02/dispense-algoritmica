@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "35f8797c242194f6",
+        "id": "69250d1baabb55d9",
         "type": "tabs",
         "children": [
           {
-            "id": "082759902e2f012d",
+            "id": "a16545b56802178b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -144,11 +144,12 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "082759902e2f012d",
+  "active": "a16545b56802178b",
   "lastOpenFiles": [
+    "Algoritmi e Strutture Dati/3. 🔩 Strutture Dati/🔴 Liste Concatenate/3. Vari Algoritmi Liste Concatenate.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231010003502.png",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. Distanza di edit.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCSR.md",
     "Analisi e Progetto di Algoritmi/📝 Indice.md",
     "Algoritmi e Strutture Dati/1. 📌 Appendici/A. Convenzioni Pseudocodice.md",
