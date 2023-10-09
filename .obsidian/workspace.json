@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cb5737a4db684303",
+        "id": "089510bb11055f14",
         "type": "tabs",
         "children": [
           {
-            "id": "42b3981c0c9ab0c2",
+            "id": "e37f82b43e77253d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "089510bb11055f14",
+        "id": "8fabf400b6877409",
         "type": "tabs",
         "children": [
           {
-            "id": "e37f82b43e77253d",
+            "id": "016a0c80be78a637",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,21 +36,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0cf230f3ebe8b400",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,10 +162,11 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "42b3981c0c9ab0c2",
+  "active": "016a0c80be78a637",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
+    "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231010011639.png",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. Distanza di edit.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟢 Ricorsione/Albero di Ricorsione.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231010005928.png",
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟤 Sorting/5. Quick Sort (D&I).md",
@@ -216,7 +204,6 @@
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟤 Sorting/8. Heap sort.md",
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟢 Ricorsione/Algoritmi Vari Ricorsivi/3. Algoritmi Ricorsivi Vari.md",
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟤 Sorting/6. Counting Sort.md",
-    "Algoritmi e Strutture Dati/0. ⛏️ Passaggi Esercizi d'Esame/Counting_Sort.jpg",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze",
     "Analisi e Progetto di Algoritmi"
   ]
