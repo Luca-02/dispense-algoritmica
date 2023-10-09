@@ -48,7 +48,10 @@ int EDricorsiva(i, j)
 		else
 			d[i - 1, j] = EDricorsiva(i - 1, j)
 			d[i, j - 1] = EDricorsiva(i, j - 1)
-			return min(d[i - 1, j - 1] + 1, d[i - 1, j] + 1, d[i, j - 1] + 1)
+			a = D[i - 1, j - 1] + 1 
+			b = D[i - 1, j] + 1 
+			c = D[i, j - 1] + 1
+			return min(a, b, c)
 ```
 
 ---
@@ -56,5 +59,34 @@ int EDricorsiva(i, j)
 ## Algoritmo DP
 
 1. Costruzione di una matrice D[0…m, 0…n]
-2. Riempimento di D in modo tale che D[i,j] = di,j per 0 ≤ i ≤ m e 0 ≤ j ≤ n
-3. Soluzione di PR à D[m,n]
+2. Riempimento di D in modo tale che D[i, j] = di,j per 0 ≤ i ≤ m e 0 ≤ j ≤ n
+3. Soluzione di PR à D[m, n]
+
+``` Pseudocodice TI:"Distanza di Edit" "FOLD"
+int calcola_ED(X,Y) 
+	for i from 0 to m do 
+		D[i,0] = i 
+	for j from 0 to n 
+		D[0,j] = j 
+	for i from 1 to m 
+		for j from 1 to n 
+			if xi = yj 
+				D[i,j] = D[i-1,j-1] 
+			else 
+				a = D[i - 1, j - 1] + 1
+				b = D[i - 1, j] + 1
+				c = D[i, j - 1] + 1
+				D[i,j] = min(a, b, c) 
+	return D[m,n]
+```
+
+---
+
+## Ricostruzione delle operazioni
+
+- Si inizializza una lista minOP vuota 
+- Si parte dalla cella D[m,n] seguendo a ritroso un “percorso di calcolo” 
+- Cella di terminazione: cella D[0,0] 
+- Per ogni D[i,j] visitata si aggiunge (eventualmente) un operazione a minOP 
+- Da D[i,j] si passa alla cella che ne ha determinato il calcolo (in base al passo ricorsivo) 
+- Al termine del percorso, minOP = minOP(X,Y)
