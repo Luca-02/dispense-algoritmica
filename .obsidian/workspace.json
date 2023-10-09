@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "95b75bbf4aca4ad4",
+        "id": "9f5a3d96a1662986",
         "type": "tabs",
         "children": [
           {
-            "id": "247f14bf8d3ef1b0",
+            "id": "93498d9895a829b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/🧬 Sequenze/LCSR.md",
+                "file": "Analisi e Progetto di Algoritmi/🧬 Sequenze/1. LCS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b8ab3328be120420",
+            "id": "3790fcf14e780c23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/🧬 Sequenze/LCS.md",
+                "file": "Analisi e Progetto di Algoritmi/🧬 Sequenze/3. Distanza di edit.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 280.5
   },
   "right": {
     "id": "de2bb8d823be66fe",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/🧬 Sequenze/LCSR.md",
+                "file": "Analisi e Progetto di Algoritmi/🧬 Sequenze/3. Distanza di edit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/🧬 Sequenze/LCSR.md"
+                "file": "Analisi e Progetto di Algoritmi/🧬 Sequenze/3. Distanza di edit.md"
               }
             }
           }
@@ -158,16 +158,18 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "247f14bf8d3ef1b0",
+  "active": "3790fcf14e780c23",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/🧬 Sequenze/LCS.md",
-    "Analisi e Progetto di Algoritmi/🧬 Sequenze/LCSR.md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/3. Insertion Sort.md",
-    "Analisi e Progetto di Algoritmi/🧬 Sequenze/Distanza di edit.md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/4. Merge Sort (D&I).md",
+    "Analisi e Progetto di Algoritmi/🧬 Sequenze/1. LCS.md",
+    "Analisi e Progetto di Algoritmi/🧬 Sequenze/3. Distanza di edit.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/1. Selection Sort.md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/⌚ Tempo Minimo per Ordinamento con Confronti.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/2. Bubble Sort.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/⌚ Tempo Minimo per Ordinamento con Confronti.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟢 Ricorsione/🔢 Calcolare i tempi Ricorsivi.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟢 Ricorsione/🔃 Da Funzione a Algoritmo.md",
+    "Analisi e Progetto di Algoritmi/🧬 Sequenze/2. LCSR.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/3. Insertion Sort.md",
+    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/4. Merge Sort (D&I).md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟢 Ricorsione/⛏️ Definizioni e Funzioni Ricorsive.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟢 Ricorsione/Algoritmi Vari Ricorsivi/2. Potenza.md",
     "Senza nome 3.canvas",
@@ -175,7 +177,6 @@
     "Senza nome 1.canvas",
     "Senza nome.canvas",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/8. Heap sort.md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟢 Ricorsione/🔃 Da Funzione a Algoritmo.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟢 Ricorsione/Algoritmi Vari Ricorsivi/3. Algoritmi Ricorsivi Vari.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/6. Counting Sort.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/5. Quick Sort (D&I).md",
@@ -186,7 +187,6 @@
     "Algoritmi e Strutture Dati/3. ⛏️ Passaggi Esercizi d'Esame/BuildHeap.jpg",
     "Algoritmi e Strutture Dati/3. ⛏️ Passaggi Esercizi d'Esame/Counting_Sort.jpg",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/Algoritmi D&I/4. Ricerca Dicotomica (D&I).md",
-    "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟢 Ricorsione/🔢 Calcolare i tempi Ricorsivi.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/🤓 Metodo dell'Esperto.md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/Algoritmi D&I/5. Funzione Matematica (D&I).md",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟣 Divide & Impera/Algoritmi D&I/3. Max Array (D&I).md",
