@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ca205b78726b204",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analisi e Progetto di Algoritmi/🧬 Sequenze/3. Distanza di edit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/🧬 Sequenze/2. LCSR.md",
+                "file": "Analisi e Progetto di Algoritmi/🧬 Sequenze/3. Distanza di edit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/🧬 Sequenze/2. LCSR.md"
+                "file": "Analisi e Progetto di Algoritmi/🧬 Sequenze/3. Distanza di edit.md"
               }
             }
           }
@@ -157,14 +169,14 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "1302808d404be3a5",
+  "active": "7ca205b78726b204",
   "lastOpenFiles": [
+    "Analisi e Progetto di Algoritmi/🧬 Sequenze/2. LCSR.md",
     "Analisi e Progetto di Algoritmi/🧬 Sequenze/1. LCS.md",
     "Algoritmi e Strutture Dati/📝 Indice Algoritmi e Strutture Dati.md",
     "Senza nome 1.canvas",
     "Senza nome.canvas",
     "Analisi e Progetto di Algoritmi/🧬 Sequenze/3. Distanza di edit.md",
-    "Analisi e Progetto di Algoritmi/🧬 Sequenze/2. LCSR.md",
     "Algoritmi e Strutture Dati/Pasted image 20231009195423.png",
     "Algoritmi e Strutture Dati/Pasted image 20231009195421.png",
     "Algoritmi e Strutture Dati/1. 🧑‍💻 Algoritmi/🟤 Sorting/1. Selection Sort.md",
