@@ -95,3 +95,15 @@ di,j = di-1,j-1 -> “null operation”
 di,j = di-1,j-1 + 1 -> substitution(xi -> yj)
 di,j = di-1,j + 1 -> deletion(xi)
 di,j = di,j-1 + 1 -> insertion(yj) after xi
+di,0 = i = (i-1) + 1 = di-1,0 + 1 -> deletion(xi)
+d0,j = j = (j-1) + 1 = d0,j-1 + 1 -> insertion(yj) before x1
+
+##### Versione iterativa
+
+List Ricostruisci_minOP(X,Y) 
+	minOp = empty list 
+	i = m, j = n 
+	while i >= 0 or j >= 0 then 
+		if from diagonal then 
+			if xi ≠ yj then 
+				append substitution(xiàyj) to minOP i = i-1, j = j-1 else if from left then append deletion(xi) to minOP i = i-1 else append insertion(yj) to minOP j = j-1
