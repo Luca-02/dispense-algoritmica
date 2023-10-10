@@ -14,37 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCSR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdcb8cb5aa233bee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. Distanza di edit.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "dea66f2ad83fbd7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCSR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md"
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCSR.md"
               }
             }
           }
@@ -169,11 +144,11 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "dea66f2ad83fbd7a",
+  "active": "03a636f1357c055f",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. Distanza di edit.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCSR.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCSR.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. Distanza di edit.md",
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟤 Sorting/4. Merge Sort (D&I).md",
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟡 Vari/1. Quanti elementi di A in B.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231010011639.png",
