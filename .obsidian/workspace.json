@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "right": {
     "id": "de2bb8d823be66fe",
@@ -144,7 +145,7 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "4a2313ce888bfa1b",
+  "active": "402a415123993969",
   "lastOpenFiles": [
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCSR.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
