@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dc62868629e0ba8a",
+        "id": "a8f4543219e8647b",
         "type": "tabs",
         "children": [
           {
-            "id": "4a2313ce888bfa1b",
+            "id": "f93535f976bf08aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. LIS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. LIS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,9 +117,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. LIS.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,13 +138,13 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "402a415123993969",
+  "active": "f93535f976bf08aa",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231012165143.png",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. Distanza di edit.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCSR.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. LIS.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. Distanza di edit.md",
+    "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231012165143.png",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCSR.md",
     "Senza nome.canvas",
     "Senza nome 1.canvas",
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟤 Sorting/4. Merge Sort (D&I).md",
@@ -174,7 +167,6 @@
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231010000136.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini",
     "Algoritmi e Strutture Dati/0. ⛏️ Passaggi Esercizi d'Esame/Quick_Sort.jpg",
-    "Algoritmi e Strutture Dati/0. ⛏️ Passaggi Esercizi d'Esame/BuildHeap.jpg",
     "Algoritmi e Strutture Dati/🔍 Tabella riassuntiva delle complessità computazionali.md",
     "Algoritmi e Strutture Dati/📝 Indice.md",
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟤 Sorting/1. Selection Sort.md",
