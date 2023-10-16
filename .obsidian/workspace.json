@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. LIS.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. LICS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. LIS.md"
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. LICS.md"
               }
             }
           }
@@ -157,10 +158,10 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "202771f16cc375a2",
+  "active": "f29bb731b82565a7",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. LICS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. LIS.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. LICS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. Distanza di edit.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCSR.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
