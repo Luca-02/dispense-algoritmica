@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "be9338bdfeb779fa",
+            "id": "3b8a905fd4b280bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "c26e62b153431f7c",
+            "id": "4af495545912b245",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -182,11 +182,11 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "c26e62b153431f7c",
+  "active": "4af495545912b245",
   "lastOpenFiles": [
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. Distanza di edit.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCSR.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. Distanza di edit.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. LIS.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231012165143.png",
     "Senza nome.canvas",
