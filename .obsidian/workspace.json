@@ -11,11 +11,26 @@
             "id": "f93535f976bf08aa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. Distanza di edit.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c082f0e4c743e7c2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "right": {
     "id": "de2bb8d823be66fe",
@@ -83,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. Distanza di edit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. Distanza di edit.md"
+              }
             }
           }
         ]
@@ -138,7 +155,7 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "f93535f976bf08aa",
+  "active": "c082f0e4c743e7c2",
   "lastOpenFiles": [
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. LIS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
