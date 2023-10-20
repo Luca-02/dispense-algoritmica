@@ -11,8 +11,12 @@
             "id": "00667ac809f4d757",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. Distanza di edit.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. Distanza di edit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. Distanza di edit.md"
+              }
             }
           }
         ],
@@ -140,11 +147,12 @@
   },
   "active": "00667ac809f4d757",
   "lastOpenFiles": [
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCSR.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCS3.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/6. Problema dello Zaino.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. LICS.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCSR.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. Distanza di edit.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231020173943.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231020172137.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231020172133.png",
