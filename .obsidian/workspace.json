@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4c67a3a8430191b",
+            "id": "b665c76c72523f56",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e4c67a3a8430191b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/8. LCS ≥ L.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. LCS ≤ L.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/8. LCS ≥ L.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. LCS ≤ L.md"
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/8. LCS ≥ L.md"
               }
             }
           }
@@ -148,11 +161,12 @@
   },
   "active": "e4c67a3a8430191b",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. LCSR.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. LCS ≤ L.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/8. LCS ≥ L.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/9. Problema dello Zaino.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. LCSR.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231023222955.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231023222953.png",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. Problema dello Zaino.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCS3.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. Distanza di edit.md",
