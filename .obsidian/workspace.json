@@ -11,24 +11,15 @@
             "id": "e4c67a3a8430191b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2c57179b80e8530c",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. LCSR.md",
-                "mode": "preview",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. LCS ≤ L.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. LCSR.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. LCS ≤ L.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. LCSR.md"
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. LCS ≤ L.md"
               }
             }
           }
@@ -154,15 +145,16 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "2c57179b80e8530c",
+  "active": "e4c67a3a8430191b",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCS3.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/6. LICS.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. Problema dello Zaino.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. LIS.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. Distanza di edit.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. LCSR.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. LCS ≤ L.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/6. LICS.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. LIS.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. Problema dello Zaino.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCS3.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. Distanza di edit.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231020173943.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231020172137.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231020172133.png",
@@ -195,7 +187,6 @@
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟢 Ricorsione/🔢 Calcolare i tempi Ricorsivi.md",
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟢 Ricorsione/🔃 Da Funzione a Algoritmo.md",
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟤 Sorting/3. Insertion Sort.md",
-    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟢 Ricorsione/⛏️ Definizioni e Funzioni Ricorsive.md",
     "Senza nome 3.canvas",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze",
     "Analisi e Progetto di Algoritmi"
