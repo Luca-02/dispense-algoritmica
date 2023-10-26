@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. LIS.md",
-                "mode": "source",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. LAS.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. LIS.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. LAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. LIS.md"
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. LAS.md"
               }
             }
           }
@@ -147,12 +147,12 @@
   },
   "active": "2b9274f11a8c8a7c",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. Distanza di edit.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/8. LACS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. LIS.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. Distanza di edit.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Problema dello Zaino.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/10. LCS ≥ L.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/9. LCS ≤ L.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/8. LACS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. LAS.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231026181519.png",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/6. LICS.md",
