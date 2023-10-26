@@ -45,7 +45,7 @@ Risulta necessario **introdurre un problema ausiliario**, nel quale introdurre l
 
 Date $X=⟨x_1, x_2, …, x_{m-1}, x_m⟩$:
 
-- $LAS_V(X_m) = max({LAS_V(X_h) | 1 \leq h < m \land x_h < x_m}) + ⟨x_m⟩$, con $max(∅) = 0$
+- $LAS_V(X_m) = max({LAS_V(X_h) | 1 \leq h < m \land φ(x_h) \neq φ(x_m)}) + ⟨x_m⟩$, con $max(∅) = 0$
 
 ---
 ## Equazioni di ricorrenza
@@ -64,15 +64,15 @@ $$ c_{i} = 1 \quad\text{se } i = 1$$
 ---
 ## Algoritmo ricorsivo
 
-``` Pseudocodice TI:"LIS_ricorsiva" "FOLD"
-int LIS_ricorsiva(i)
+``` Pseudocodice TI:"LAS_ricorsiva" "FOLD"
+int LAS_ricorsiva(i)
 	if i = 1 then
 		return 1
 	else
 		max = 0
 		for h from 1 to i-1 do
-			if x[h] < x[i] then
-				S = LIS_ricorsiva(h)
+			if φ(x[h]) != φ(x[i]) then
+				S = LAS_ricorsiva(h)
 				if S > max then
 					max = S
 		return max + 1
@@ -87,15 +87,12 @@ int LIS_ricorsiva(i)
 ``` Pseudocodice TI:"LIS" "FOLD"
 int LIS(X) 
 	c[1] = 1
-	b[1] = 0
 	max = c[1]
 	for i from 2 to m do
 		temp = 0
-		b[i] = 0
 		for h from 1 to i-1 do
-			if x[h] < x[i] and c[h] > temp then
+			if φ(x[h]) != φ(x[i]) and c[h] > temp then
 				temp = c[h]
-				b[i] = h
 		c[i] = temp + 1
 		if c[i] > max then
 			max = c[i]

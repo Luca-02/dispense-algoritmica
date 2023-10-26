@@ -1,0 +1,134 @@
+>[!Premise]
+>Sia C un insieme di colori. Gli elementi della sequenza considerata in questo esercizio sono numeri naturali colorati. La funzione di colorazione è definita nel seguente modo: 
+>$$φ : N → C$$
+>Per esempio, data la funzione:
+>$$φ(x) = \begin {cases} rosso & \text{se } x < 5 \\blu & \text{se } 5 \leq x \leq 10 \\ verde & \text{se } x > 10 \\ \end {cases}$$
+>la sequenza  
+>$$X = ⟨2, 4, 7, 6, 11, 3, 21, 14, 1⟩$$
+>sarà colorata nel seguente modo: 
+>$$⟨r, r, b, b, g, r, g, g, r⟩$$
+>
+
+*Date due sequenze $X$ e $Y$ , rispettivamente di $m$ e $n$ numeri interi, si determini **UNA** tra le più lunghe sottosequenze comuni a $X$ e $Y$ che non abbia elementi consecutivi dello stesso colore.*
+
+---
+## Sottoproblemi
+
+*Date due sequenze $X$ e $Y$ , rispettivamente di $m$ ed $n$ numeri interi, si determini la lunghezza di una tra le più lunghe sottosequenze comuni al prefisso $X_i$ e al prefisso $Y_j$ che non abbia elementi consecutivi dello stesso colore.*
+
+- Considerato il sottoproblema di dimensione $(i, j)$, la `variabile` ad esso associata è $c_{i, j}$ ed è così definita:
+	- $c_{i, j}$ = $|LACS(X_i, Y_j)|$
+	- $c_{i, j}$ = lunghezza di una tra le più lunghe sottosequenze comuni a $X_i$ e $Y_j$ che non ha elementi consecutivi dello stesso colore
+
+**Numero di sottoproblemi**: $(m+1)(n+1)$
+
+Purtroppo, però, il problema così definito **non è risolvibile**: `ci manca informazioni`.
+Non c’è alcun modo per poter comprendere se gli elementi $x_i$ e $y_j$ , nel caso fossero uguali, possano essere accodati alle sottosequenze comuni alternanti relative ai sottoproblemi di dimensione minore a $(i, j)$.
+
+Risulta necessario **introdurre un problema ausiliario**, nel quale introdurre l’informazione mancante necessaria.
+
+---
+## Problema ausiliario (sottoproblema vincolato)
+
+*Date due sequenze $X$ e $Y$ , rispettivamente di $m$ ed $n$ numeri interi, si determini la lunghezza di una tra le più lunghe sottosequenze comuni al prefisso $X_i$ e al prefisso $Y_j$ che non abbia elementi consecutivi dello stesso colore e che termini con $x_m$ e $y_n$ (se questi coincidono).* 
+
+- Considerato il sottoproblema di dimensione $(i, j)$, la `variabile` ad esso associata è $c_i$ ed è così definita:
+	- $c_{i, j}$ = $|LACS_V(X_i, Y_j)|$
+	- $c_{i}$ = lunghezza di una tra le più lunghe sottosequenze comuni a $X_i$ e $Y_j$ che non ha elementi consecutivi dello stesso colore e che termina con $x_i$ e $y_j$ (se questi coincidono)
+
+**Numero di sottoproblemi**: $(m+1)(n+1)$
+**Soluzione del problema**: $max({c_{i, j} | 1 \leq i \leq m \land 1 \leq j \leq n})$
+
+---
+## Sottostruttura ottima
+
+Date $X=⟨x_1, x_2, …, x_{m-1}, x_m⟩$ e $Y=⟨y_1, y_2, …, y_{n-1}, y_n⟩$:
+
+- $LACS_V(X_m, Y_n) = max({LACS_V(X_h, Y_k) | 1 \leq h < m \land 1 \leq k < n \land x_h < x_m}) + ⟨x_m⟩$, con $max(∅) = 0$
+
+---
+## Equazioni di ricorrenza
+#### <u>**Caso base**</u>: $(i, j)$ con $i > 0 \land j > 0$ tali che $x_i \neq y_j$
+- Fanno parte del caso base tutte le coppie $(i, j)$ con $i = 0 \lor j = 0$ ma il caso base si ha anche per un qualunque sottoproblema di dimensione $(i, j)$ tale che $x_i \neq y_j$, ossia quando i due prefissi $X_i$ e $Y_j$ considerati **terminano con due elementi diversi**:
+$$ c_{i, j} = 0 \quad\text{se } (i = 0 \lor j = 0) \lor (i > 0 \land j > 0 \land x_i \neq y_j)$$
+
+#### <u>**Passo ricorsivo**</u>: $(i, j)$ con $i > 0 \land j > 0$ tali che $x_i = y_j$
+- Il passo ricorsivo si ha per un qualunque sottoproblema di dimensione $(i, j)$ tale che $x_i = y_j$ , ossia quando i due prefissi $X_i$ e $Y_j$ considerati terminano con lo stesso elemento.
+
+	In questo caso, la `lunghezza della più lunga sottosequenza crescente comune` fra $X_i$ e $Y_j$ è uguale alla lunghezza della più lunga sottosequenza crescente comune calcolata per un **sottoproblema di dimensione minore** e che termina con un carattere minore di $x_i = y_j$ aumentata di uno:
+	$$c_{i, j} = max({c_{h, k} | 1 \leq h < i \land 1 \leq k < j \land x_h < x_i}) + 1$$
+	assumiamo per definizione che $max(∅) = 0$.
+	
+	Inoltre, si noti che l’insieme $(c_{h,k} | 1 \leq h < i \land 1 \leq k < j \land x_h < x_i)$ corrisponde all’insieme vuoto anche se $i = 1 \lor j = 1$ in quanto i casi con $i = 0 \lor j = 0$ sono stati omessi dal caso base.
+
+---
+## Algoritmo ricorsivo
+
+``` Pseudocodice TI:"LICS_ricorsiva" "FOLD"
+int LICS_ricorsiva(i, j)
+	if i = 0 or j = 0 or x[i] != y[j] then
+		return 0
+	else
+		max = 0
+		for h from 1 to i-1 do
+			for k from 1 to j-1 do
+				if x[h] < x[i] then 
+					S = LICS_ricorsiva(h, k)
+					if S > max then
+						max = S
+		return 1 + max
+```
+
+---
+## Algoritmo DP
+
+- uso una **matrice** $c[1...m][1...n]$ per salvare tutti i `sottoproblemi` $c_{i,j}$
+- `[facoltativa]` uso una **matrice** $b[1...m][1...n][2]$ per salvare gli indici $(h, k)$ della $LICS_V$ che precede l'indice $(i, j)-esimo$ per il **backtracking** ($[-1, -1]$ se $c_{i, j} = 0$ e $[0, 0]$ se $c_{i,j} = 1$)
+
+``` Pseudocodice TI:"LICS" "FOLD"
+int LICS(X, Y) 
+	max = 0
+	for i from 1 to m do 
+		for j from 1 to n do
+			if x[i] != y[i] then
+				c[i, j] = 0
+				b[-1, -1]
+			else
+				temp = 0
+				b[i, j] = [0, 0]
+				for h from 1 to i-1 do
+					for k from 1 to j-1 do
+						if x[h] < x[i] and c[h, k] > temp then
+							temp = c[h, k]
+							b[i, j] = [h, k]
+				c[i, j] = temp + 1
+			if c[i, j] > max then
+				max = c[i, j]
+	return max
+```
+
+> [!Summary]
+> - ***Complessità***: $O(m^2n^2)$
+> - ***Memoria***: $O(mn)$
+
+
+![[Pasted image 20231016173109.png]]
+
+---
+## Ricostruzione delle operazioni
+
+##### Versione ricorsiva
+
+``` Pseudocodice TI:"ricostruisci_LICS_V" "FOLD"
+void ricostruisci_LICS_V(b, i, j)
+	if b[i, j] != [0, 0] then
+		ricostruisci_LICS_V(b, b[i,j][1], b[i,j][2])
+	print x[i]
+```
+
+>[!Note]
+>Chiamando la procedura per $i_{max}$ e $j_{max}$ (posizione della cella di $c$ che contiene il valore massimo) si ottiene la stampa di una soluzione ottimale di $LICS(X, Y)$
+
+> [!Summary]
+> - ***Complessità***: $O(m+n)$
+> - ***Memoria***: $O(mn)$
