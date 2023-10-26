@@ -15,25 +15,27 @@
 ---
 ## Sottoproblemi
 
-*Data una sequenza $X$ di $m$ numeri interi, si determini la lunghezza di una tra le più lunghe sottosequenze di Xi che non abbia elementi consecutivi dello stesso colore.*
+*Data una sequenza $X$ di $m$ numeri interi, si determini la lunghezza di una tra le più lunghe sottosequenze di $X_i$ che non abbia elementi consecutivi dello stesso colore.*
 
 - Considerato il sottoproblema di dimensione $(i)$, la `variabile` ad esso associata è $c_i$ ed è così definita:
-	- $c_{i}$ = $|LIS(X_i)|$
-	- $c_{i}$ = lunghezza di una tra le più lunghe sottosequenze crescenti di $X_i$
+	- $c_{i}$ = $|LAS(X_i)|$
+	- $c_{i}$ = lunghezza di una tra le più lunghe sottosequenze di $X_i$ che non ha elementi consecutivi dello stesso colore
 
 **Numero di sottoproblemi**: $m+1$
 
 Purtroppo, però, il problema così definito **non è risolvibile**! `Ci manca informazioni`.
+Non c’è alcun modo per poter comprendere se l’elemento $x_i$ possa essere accodato alle sottosequenze senza elementi consecutivi dello stesso colore relative ai sottoproblemi di dimensione minore a $i$.
+
 Risulta necessario **introdurre un problema ausiliario**, nel quale introdurre l’informazione mancante necessaria.
 
 ---
 ## Problema ausiliario (sottoproblema vincolato)
 
-*Data una sequenza $X$ di m numeri interi, si determini la lunghezza di una tra le più lunghe sottosequenze crescenti di $X_i$ e che termina con $x_m$.*
+*Data una sequenza $X$ di $m$ numeri interi, si determini la lunghezza di una tra le più lunghe sottosequenze di $X_i$ che non abbia elementi consecutivi dello stesso colore e che termina con $x_m$.*
 
 - Considerato il sottoproblema di dimensione $(i)$, la `variabile` ad esso associata è $c_i$ ed è così definita:
-	- $c_{i}$ = $|LIS_V(X_i)|$
-	- $c_{i}$ = lunghezza di una tra le più lunghe sottosequenze crescenti di $X_i$ e che termina con $x_i$
+	- $c_{i}$ = $|LAS_V(X_i)|$
+	- $c_{i}$ = lunghezza di una tra le più lunghe sottosequenze di $X_i$ che non ha elementi consecutivi dello stesso colore e che termina con $x_i$
 
 **Numero di sottoproblemi**: $m+1$
 **Soluzione del problema**: $max({c_i | 1 \leq i \leq m})$
@@ -43,7 +45,7 @@ Risulta necessario **introdurre un problema ausiliario**, nel quale introdurre l
 
 Date $X=⟨x_1, x_2, …, x_{m-1}, x_m⟩$:
 
-- $LIS_V(X_m) = max({LIS_V(X_h) | 1 \leq h < m \land x_h < x_m}) + ⟨x_m⟩$, con $max(∅) = 0$
+- $LAS_V(X_m) = max({LAS_V(X_h) | 1 \leq h < m \land x_h < x_m}) + ⟨x_m⟩$, con $max(∅) = 0$
 
 ---
 ## Equazioni di ricorrenza
@@ -53,11 +55,10 @@ Date $X=⟨x_1, x_2, …, x_{m-1}, x_m⟩$:
 $$ c_{i} = 1 \quad\text{se } i = 1$$
 
 #### <u>**Passo ricorsivo**</u>: $(i)$ con $i > 1$
-- Il passo ricorsivo si ha per un qualunque sottoproblema di dimensione (i) con i > 1, ossia quando si considera un prefisso della sequenza X in input di almeno due elementi.
+- Il passo ricorsivo si ha per un qualunque sottoproblema di dimensione $(i)$ con $i > 1$, ossia quando si considera un prefisso della sequenza $X$ in input di almeno due elementi.
 
-	Se prendiamo la più lunga sottosequenza crescente alla quale **possiamo attaccare** $x_i$ e accodiamo ad essa $x_i$ , otteniamo la `più lunga sottosequenza crescente` di $X_i$ che termina con $x_i$ . 
-	La lunghezza di tale sottosequenza sarà uguale alla lunghezza della sottosequenza crescente alla quale abbiamo accodato $x_i$ **aumentata** di $1$:
-	$$c_i = max({c_h | 1 \leq h < i \land x_h < x_i}) + 1$$
+	Se prendiamo la più lunga sottosequenza alla quale possiamo attaccare $x_i$ e accodiamo ad essa $x_i$, otteniamo la `più lunga sottosequenza` di $X_i$ che **non contiene elementi consecutivi dello stesso colore** e che termina con $x_i$ . La lunghezza di tale sottosequenza, pertanto, sarà uguale alla lunghezza della sottosequenza alla quale abbiamo accodato $x_i$ **aumentata** di $1$:
+	$$c_i = max(c_h | 1 ≤ h < i ∧ φ(x_h) \neq φ(x_i)) + 1$$
 	assumiamo per definizione che $max(∅) = 0$.
 
 ---
@@ -106,23 +107,4 @@ int LIS(X)
 > - ***Memoria***: $O(m)$
 
 
-![[Pasted image 20231012165143.png]]
-
----
-## Ricostruzione delle operazioni
-
-##### Versione ricorsiva
-
-``` Pseudocodice TI:"ricostruisci_LIS_V" "FOLD"
-void ricostruisci_LIS_V(b, i)
-	if b[i] != 0 then
-		ricostruisci_LIS_V(b, b[i])
-	print x[i]
-```
-
->[!Note]
->Chiamando la procedura per $i_{max}$ (posizione della cella di $c$ che contiene il valore massimo) si ottiene la stampa di una soluzione ottimale di $LIS(X)$
-
-> [!Summary]
-> - ***Complessità***: $O(m)$
-> - ***Memoria***: $O(m)$
+![[Pasted image 20231026175003.png]]
