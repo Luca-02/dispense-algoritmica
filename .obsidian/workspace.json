@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/LAS.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/LACS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/LAS.md"
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/LACS.md"
               }
             }
           }
@@ -159,10 +158,10 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "c89153ef3c361903",
+  "active": "5ddc79ddb0543429",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/LACS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/LAS.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/LACS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/6. LICS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. LIS.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231026175003.png",

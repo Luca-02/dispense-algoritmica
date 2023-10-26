@@ -55,25 +55,25 @@ $$ c_{i, j} = 0 \quad\text{se } (i = 0 \lor j = 0) \lor (i > 0 \land j > 0 \land
 #### <u>**Passo ricorsivo**</u>: $(i, j)$ con $i > 0 \land j > 0$ tali che $x_i = y_j$
 - Il passo ricorsivo si ha per un qualunque sottoproblema di dimensione $(i, j)$ tale che $x_i = y_j$ , ossia quando i due prefissi $X_i$ e $Y_j$ considerati terminano con lo stesso elemento.
 
-	In questo caso, la `lunghezza della più lunga sottosequenza crescente comune` fra $X_i$ e $Y_j$ è uguale alla lunghezza della più lunga sottosequenza crescente comune calcolata per un **sottoproblema di dimensione minore** e che termina con un carattere minore di $x_i = y_j$ aumentata di uno:
-	$$c_{i, j} = max({c_{h, k} | 1 \leq h < i \land 1 \leq k < j \land x_h < x_i}) + 1$$
+	In questo caso, la `lunghezza della più lunga sottosequenza con colori alternati comune` fra $X_i$ e $Y_j$ è uguale alla lunghezza della più lunga sottosequenza con colori alternanti comune calcolata per un **sottoproblema di dimensione minore** e che termina con un carattere con colore diverso da quello di $xi = yj$ aumentata di uno:
+	$$c_{i, j} = max({c_{h, k} | 1 \leq h < i \land 1 \leq k < j \land φ(x_i) \neq φ(x_h)}) + 1$$
 	assumiamo per definizione che $max(∅) = 0$.
 	
-	Inoltre, si noti che l’insieme $(c_{h,k} | 1 \leq h < i \land 1 \leq k < j \land x_h < x_i)$ corrisponde all’insieme vuoto anche se $i = 1 \lor j = 1$ in quanto i casi con $i = 0 \lor j = 0$ sono stati omessi dal caso base.
+	Inoltre, si noti che l’insieme $({c_{h, k} | 1 \leq h < i \land 1 \leq k < j \land φ(x_i) \neq φ(x_h)})$ corrisponde all’insieme vuoto anche se $i = 1 \lor j = 1$ in quanto i casi con $i = 0 \lor j = 0$ sono stati omessi dal caso base.
 
 ---
 ## Algoritmo ricorsivo
 
 ``` Pseudocodice TI:"LICS_ricorsiva" "FOLD"
-int LICS_ricorsiva(i, j)
+int LACS_ricorsiva(i, j)
 	if i = 0 or j = 0 or x[i] != y[j] then
 		return 0
 	else
 		max = 0
 		for h from 1 to i-1 do
 			for k from 1 to j-1 do
-				if x[h] < x[i] then 
-					S = LICS_ricorsiva(h, k)
+				if φ(x[h]) != φ(x[i]) then 
+					S = LACS_ricorsiva(h, k)
 					if S > max then
 						max = S
 		return 1 + max
@@ -92,10 +92,8 @@ int LICS(X, Y)
 		for j from 1 to n do
 			if x[i] != y[i] then
 				c[i, j] = 0
-				b[-1, -1]
 			else
 				temp = 0
-				b[i, j] = [0, 0]
 				for h from 1 to i-1 do
 					for k from 1 to j-1 do
 						if x[h] < x[i] and c[h, k] > temp then
