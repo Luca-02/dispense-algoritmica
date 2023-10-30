@@ -25,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/6. LICS.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/8. LACS.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "37d8a1b49c847eea",
+            "id": "b997885f8f7f254f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b7d7263ff5944110",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/6. LICS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Problema dello Zaino (Knapsack).md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/6. LICS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Problema dello Zaino (Knapsack).md"
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/6. LICS.md"
               }
             }
           }
@@ -170,12 +182,12 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "37d8a1b49c847eea",
+  "active": "b7d7263ff5944110",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/6. LICS.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Problema dello Zaino (Knapsack).md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Problema dello Zaino (Knapsack).md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/8. LACS.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/6. LICS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. LAS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/10. LCS ≥ L.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCS3.md",
