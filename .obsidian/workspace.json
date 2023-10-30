@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1f09cc2f6c05780f",
+        "id": "66744a5549ebcff0",
         "type": "tabs",
         "children": [
           {
-            "id": "06f7c579e28b5f16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bb797fa8e503635",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/6. LICS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b997885f8f7f254f",
+            "id": "0e2f6b8603766a0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,11 +146,11 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "b997885f8f7f254f",
+  "active": "0e2f6b8603766a0e",
   "lastOpenFiles": [
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Problema dello Zaino (Knapsack).md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/6. LICS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Problema dello Zaino (Knapsack).md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/8. LACS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. LAS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/10. LCS ≥ L.md",
