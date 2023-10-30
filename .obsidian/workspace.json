@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/2. Cammini minimi senza vertici consecutivi rossi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00a086e2d82c8ad7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/1. Floyd-Warshall.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -70,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "right": {
     "id": "de2bb8d823be66fe",
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/1. Floyd-Warshall.md",
+                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/2. Cammini minimi senza vertici consecutivi rossi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/1. Floyd-Warshall.md"
+                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/2. Cammini minimi senza vertici consecutivi rossi.md"
               }
             }
           }
@@ -147,9 +160,10 @@
   },
   "active": "7b18c8904d1e9f26",
   "lastOpenFiles": [
+    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/1. Floyd-Warshall.md",
+    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/2. Cammini minimi senza vertici consecutivi rossi.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCS3.md",
-    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/1. Floyd-Warshall.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/9. LCS ≤ L.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Problema dello Zaino (Knapsack).md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/6. LICS.md",
