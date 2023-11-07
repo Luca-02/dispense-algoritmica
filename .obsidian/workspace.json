@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "66744a5549ebcff0",
+        "id": "d9bb2b5d3a760cef",
         "type": "tabs",
         "children": [
           {
-            "id": "0e2f6b8603766a0e",
+            "id": "43348b6432777063",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Problema dello Zaino (Knapsack).md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Problema dello Zaino (Knapsack).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,9 +117,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Problema dello Zaino (Knapsack).md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,7 +139,7 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "0e2f6b8603766a0e",
+  "active": "43348b6432777063",
   "lastOpenFiles": [
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Problema dello Zaino (Knapsack).md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/6. LICS.md",
