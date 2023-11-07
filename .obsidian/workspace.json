@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d9bb2b5d3a760cef",
+        "id": "0dc871edd59ed4e0",
         "type": "tabs",
         "children": [
           {
-            "id": "43348b6432777063",
+            "id": "2b7fc5e2e203b97e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/1. Floyd-Warshall.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -66,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "right": {
     "id": "de2bb8d823be66fe",
@@ -83,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/1. Floyd-Warshall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/1. Floyd-Warshall.md"
+              }
             }
           }
         ],
@@ -139,8 +145,13 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "43348b6432777063",
+  "active": "2b7fc5e2e203b97e",
   "lastOpenFiles": [
+    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/2. Cammini minimi senza vertici consecutivi rossi.md",
+    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/1. Floyd-Warshall.md",
+    "Senza nome 1.canvas",
+    "Senza nome.canvas",
+    "Senza nome 2.canvas",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Problema dello Zaino (Knapsack).md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/6. LICS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
@@ -149,10 +160,6 @@
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/10. LCS ≥ L.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCS3.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. Distanza di edit.md",
-    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/1. Floyd-Warshall.md",
-    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/2. Cammini minimi senza vertici consecutivi rossi.md",
-    "Senza nome.canvas",
-    "Senza nome 1.canvas",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/9. LCS ≤ L.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. LCSR.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. LIS.md",
@@ -169,7 +176,6 @@
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231020173943.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231020172137.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231020172133.png",
-    "Senza nome 2.canvas",
     "Analisi e Progetto di Algoritmi/📝 Indice.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231016173109.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231012165143.png",
