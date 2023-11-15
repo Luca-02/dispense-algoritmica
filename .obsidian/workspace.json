@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/1. Floyd-Warshall.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. Distanza di edit.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/1. Floyd-Warshall.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. Distanza di edit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/1. Floyd-Warshall.md"
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. Distanza di edit.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "2b7fc5e2e203b97e",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/2. Cammini minimi senza vertici consecutivi rossi.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/1. Floyd-Warshall.md",
+    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/2. Cammini minimi senza vertici consecutivi rossi.md",
     "Senza nome 1.canvas",
     "Senza nome.canvas",
     "Senza nome 2.canvas",
