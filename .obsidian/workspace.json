@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0dc871edd59ed4e0",
+        "id": "80c1aa73e16e0ec5",
         "type": "tabs",
         "children": [
           {
-            "id": "2b7fc5e2e203b97e",
+            "id": "0efee98ba263f54b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Problema dello Zaino (Knapsack).md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/12. Sottovettore di peso massimo.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Problema dello Zaino (Knapsack).md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/12. Sottovettore di peso massimo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Problema dello Zaino (Knapsack).md"
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/12. Sottovettore di peso massimo.md"
               }
             }
           }
@@ -146,13 +146,13 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "2b7fc5e2e203b97e",
+  "active": "0efee98ba263f54b",
   "lastOpenFiles": [
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Problema dello Zaino (Knapsack).md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/9. LCS ≥ L.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. LCSR.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. Distanza di edit.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/8. LACS.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Problema dello Zaino (Knapsack).md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. LIS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/10. LCS ≤ L.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. LAS.md",
