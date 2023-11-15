@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/12. Sottovettore di peso massimo.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. LCSR.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/12. Sottovettore di peso massimo.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. LCSR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/12. Sottovettore di peso massimo.md"
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. LCSR.md"
               }
             }
           }
@@ -148,23 +148,23 @@
   },
   "active": "2b7fc5e2e203b97e",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Problema dello Zaino (Knapsack).md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCS3.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/12. Sottovettore di peso massimo.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Problema dello Zaino (Knapsack).md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/10. LCS ≥ L.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/9. LCS ≤ L.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. LIS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/6. LICS.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/8. LACS.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. LAS.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. LIS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. Distanza di edit.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. LCSR.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/1. Floyd-Warshall.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/2. Cammini minimi senza vertici consecutivi rossi.md",
     "Senza nome 1.canvas",
     "Senza nome.canvas",
     "Senza nome 2.canvas",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/8. LACS.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. LAS.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCS3.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. LCSR.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231030151107.png",
     "Algoritmi e Strutture Dati/1. 📌 Appendici/C. Sommatorie.md",
     "Algoritmi e Strutture Dati/1. 📌 Appendici/B. Tempi dei Cicli While.md",
