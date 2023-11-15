@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "80c1aa73e16e0ec5",
+        "id": "fb5462af5ab24a54",
         "type": "tabs",
         "children": [
           {
-            "id": "0efee98ba263f54b",
+            "id": "bfeb33567e0a801e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. LIS.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/12. Sottovettore di peso massimo.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. LIS.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/12. Sottovettore di peso massimo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. LIS.md"
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/12. Sottovettore di peso massimo.md"
               }
             }
           }
@@ -146,15 +146,17 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "0efee98ba263f54b",
+  "active": "bfeb33567e0a801e",
   "lastOpenFiles": [
+    "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231115223635.png",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/12. Sottovettore di peso massimo.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. LAS.md",
+    "Senza nome.canvas",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. LIS.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Problema dello Zaino (Knapsack).md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/10. LCS ≤ L.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/9. LCS ≥ L.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. LAS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/6. LICS.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Problema dello Zaino (Knapsack).md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. LIS.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/12. Sottovettore di peso massimo.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. LCSR.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. Distanza di edit.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/8. LACS.md",
@@ -163,7 +165,6 @@
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/1. Floyd-Warshall.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/2. Cammini minimi senza vertici consecutivi rossi.md",
     "Senza nome 1.canvas",
-    "Senza nome.canvas",
     "Senza nome 2.canvas",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231030151107.png",
     "Algoritmi e Strutture Dati/1. 📌 Appendici/C. Sommatorie.md",
@@ -180,7 +181,6 @@
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231020172133.png",
     "Analisi e Progetto di Algoritmi/📝 Indice.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231016173109.png",
-    "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231012165143.png",
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟤 Sorting/4. Merge Sort (D&I).md",
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟡 Vari/1. Quanti elementi di A in B.md",
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟤 Sorting/5. Quick Sort (D&I).md",
@@ -188,7 +188,6 @@
     "Algoritmi e Strutture Dati/3. 🔩 Strutture Dati/🔴 Liste Concatenate/3. Vari Algoritmi Liste Concatenate.md",
     "Algoritmi e Strutture Dati/1. 📌 Appendici/D. Approssimazioni.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini",
-    "Algoritmi e Strutture Dati/🔍 Tabella riassuntiva delle complessità computazionali.md",
     "Senza nome 3.canvas",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze",
     "Analisi e Progetto di Algoritmi"
