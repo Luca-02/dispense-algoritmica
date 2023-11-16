@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0102c8badc30cbbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/14. Problema dello Zaino (Knapsack).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
