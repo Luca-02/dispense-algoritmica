@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a537578417c8a3df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89c0c4d956f3673f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/14. Problema dello Zaino (Knapsack).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "24fc9ba73bd53a23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/15. Constrained Weighted Interval Scheduling.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/16. Interleaving.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/16. Interleaving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md"
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/16. Interleaving.md"
               }
             }
           }
@@ -170,12 +146,19 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "a537578417c8a3df",
+  "active": "24fc9ba73bd53a23",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/15. Constrained Weighted Interval Scheduling.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/14. Problema dello Zaino (Knapsack).md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md",
+    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/1. Floyd-Warshall.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/16. Interleaving.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/15. Constrained Weighted Interval Scheduling.md",
+    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟡 Vari/2. Matrice Simmetrica.md",
+    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤴️ Limite Asintotico Superiore.md",
+    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤵️ Limite Asintotico Inferiore.md",
+    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/Complessità Computazionale.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/14. Problema dello Zaino (Knapsack).md",
+    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟠 Ricerca/1. Sequenziale.md",
+    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/➡️ Limite Asintotico Stretto.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231116192503.png",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/12. Stringhe Palindrome.md",
     "Analisi e Progetto di Algoritmi/📝 Indice.md",
@@ -197,16 +180,10 @@
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCS3.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/2. Cammini Minimi Senza Vertici Consecutivi Rossi.md",
-    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/1. Floyd-Warshall.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. LICS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. LACS.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/6. LAS.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/8. LCS ≥ L.md",
     "Senza nome 1.canvas",
     "Senza nome 2.canvas",
-    "Algoritmi e Strutture Dati/1. 📌 Appendici/C. Sommatorie.md",
-    "Algoritmi e Strutture Dati/1. 📌 Appendici/B. Tempi dei Cicli While.md",
-    "Algoritmi e Strutture Dati/1. 📌 Appendici/A. Convenzioni Pseudocodice.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231026181519.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231026175003.png",
