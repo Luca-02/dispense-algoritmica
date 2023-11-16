@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -38,12 +38,13 @@
               "type": "markdown",
               "state": {
                 "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/14. Problema dello Zaino (Knapsack).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/15. Constrained Weighted Interval Scheduling.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/14. Problema dello Zaino (Knapsack).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/15. Constrained Weighted Interval Scheduling.md"
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/14. Problema dello Zaino (Knapsack).md"
               }
             }
           }
@@ -170,11 +171,11 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "64b425424bef9edc",
+  "active": "e1b7fca002edd9c5",
   "lastOpenFiles": [
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/15. Constrained Weighted Interval Scheduling.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/14. Problema dello Zaino (Knapsack).md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/15. Constrained Weighted Interval Scheduling.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231116164011.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231116163830.png",
     "Pasted image 2020231116163830.png.md",
