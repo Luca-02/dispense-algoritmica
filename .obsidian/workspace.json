@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3a4b1fb67ecc9367",
+        "id": "05704e2a2ba2b35a",
         "type": "tabs",
         "children": [
           {
-            "id": "0923a029e1b44407",
+            "id": "a537578417c8a3df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md",
-                "mode": "preview",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/16. Interleaving.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "right": {
     "id": "de2bb8d823be66fe",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/16. Interleaving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md"
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/16. Interleaving.md"
               }
             }
           }
@@ -146,16 +145,19 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "0923a029e1b44407",
+  "active": "a537578417c8a3df",
   "lastOpenFiles": [
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/12. Stringhe Palindrome.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/16. Interleaving.md",
+    "Analisi e Progetto di Algoritmi/📝 Indice.md",
+    "Pasted image 20231116163833.png.md",
+    "Pasted image 2020231116163830.png.md",
+    "README.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/14. Problema dello Zaino (Knapsack).md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/15. Constrained Weighted Interval Scheduling.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/16. Interleaving.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231116164011.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231116163830.png",
-    "Pasted image 2020231116163830.png.md",
-    "Pasted image 20231116163833.png.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/10. LCSR.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231030151107.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231115223635.png",
@@ -164,7 +166,6 @@
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. Sottovettore di Peso Massimo.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Distanza di Edit.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/9. LCS ≤ L.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/12. Stringhe Palindrome.md",
     "Senza nome.canvas",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. LIS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCS3.md",
@@ -180,13 +181,11 @@
     "Algoritmi e Strutture Dati/1. 📌 Appendici/C. Sommatorie.md",
     "Algoritmi e Strutture Dati/1. 📌 Appendici/B. Tempi dei Cicli While.md",
     "Algoritmi e Strutture Dati/1. 📌 Appendici/A. Convenzioni Pseudocodice.md",
-    "README.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231026181519.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231026175003.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231023222955.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231023222953.png",
-    "Analisi e Progetto di Algoritmi/📝 Indice.md",
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟤 Sorting/4. Merge Sort (D&I).md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini",
     "Senza nome 3.canvas",
