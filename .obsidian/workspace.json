@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/3. Cammini Minimi Senza Archi Consecutivi Rossi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ad443fe98ddb1a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. LIS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "right": {
     "id": "de2bb8d823be66fe",
@@ -146,15 +158,16 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "14cc546c2ea71c96",
+  "active": "6ad443fe98ddb1a4",
   "lastOpenFiles": [
+    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/3. Cammini Minimi Senza Archi Consecutivi Rossi.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. LIS.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/6. LAS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. LICS.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/0. Floyd-Warshall.md",
-    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/3. Cammini Minimi Senza Archi Consecutivi Rossi.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/1. Cammini Minimi Senza Vertici Consecutivi Rossi.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/2. Esistenza di Cammini Senza Vertici Consecutivi Rossi.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/6. LAS.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231117190732.png",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/15. Constrained Weighted Interval Scheduling.md",
@@ -182,7 +195,6 @@
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231115223635.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231116153032.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231116163833.png",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. Sottovettore di Peso Massimo.md",
     "Senza nome.canvas",
     "Senza nome 1.canvas",
     "Senza nome 2.canvas",
