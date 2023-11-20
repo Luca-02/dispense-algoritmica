@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/14. Problema dello Zaino (Knapsack).md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/14. Problema dello Zaino (Knapsack).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md"
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/14. Problema dello Zaino (Knapsack).md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "7641d80e32caacca",
   "lastOpenFiles": [
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/6. Cammini Minimi con al più Due Archi Rossi.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/5. Cammini minimi con Esattamente 3 Archi Rossi.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/4.  Esistenza di Cammini Senza Archi Consecutivi Rossi.md",
@@ -160,7 +161,6 @@
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/6. LAS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231117190732.png",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/15. Constrained Weighted Interval Scheduling.md",
     "Analisi e Progetto di Algoritmi/📝 Indice.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/14. Problema dello Zaino (Knapsack).md",
