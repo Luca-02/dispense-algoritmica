@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/4.  Esistenza di Cammini Senza Archi Consecutivi Rossi.md",
+                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/5. Cammini minimi con Esattamente 3 Archi Rossi.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/4.  Esistenza di Cammini Senza Archi Consecutivi Rossi.md",
+                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/5. Cammini minimi con Esattamente 3 Archi Rossi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/4.  Esistenza di Cammini Senza Archi Consecutivi Rossi.md"
+                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/5. Cammini minimi con Esattamente 3 Archi Rossi.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "14cc546c2ea71c96",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/2. Esistenza di Cammini Senza Vertici Consecutivi Rossi.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/4.  Esistenza di Cammini Senza Archi Consecutivi Rossi.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/3. Cammini Minimi Senza Archi Consecutivi Rossi.md",
+    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/2. Esistenza di Cammini Senza Vertici Consecutivi Rossi.md",
+    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/5. Cammini minimi con Esattamente 3 Archi Rossi.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/1. Cammini Minimi Senza Vertici Consecutivi Rossi.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/0. Floyd-Warshall.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. LICS.md",
@@ -176,7 +177,6 @@
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231116192503.png",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/12. Stringhe Palindrome.md",
     "Pasted image 20231116163833.png.md",
-    "Pasted image 2020231116163830.png.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231116164011.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231116163830.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231030151107.png",
