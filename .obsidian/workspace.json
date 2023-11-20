@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fa43629bdd74b251",
+        "id": "493d5adef319dd57",
         "type": "tabs",
         "children": [
           {
-            "id": "14cc546c2ea71c96",
+            "id": "7641d80e32caacca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/6. Cammini Minimi con al più Due Archi Rossi.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/6. Cammini Minimi con al più Due Archi Rossi.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/6. Cammini Minimi con al più Due Archi Rossi.md"
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "14cc546c2ea71c96",
+  "active": "7641d80e32caacca",
   "lastOpenFiles": [
+    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/6. Cammini Minimi con al più Due Archi Rossi.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/5. Cammini minimi con Esattamente 3 Archi Rossi.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/4.  Esistenza di Cammini Senza Archi Consecutivi Rossi.md",
-    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/6. Cammini Minimi con al più Due Archi Rossi.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/1. Cammini Minimi Senza Vertici Consecutivi Rossi.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/2. Esistenza di Cammini Senza Vertici Consecutivi Rossi.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/3. Cammini Minimi Senza Archi Consecutivi Rossi.md",
