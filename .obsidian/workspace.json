@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3e96147e01129a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. LACS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9316d365dce760a0",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
