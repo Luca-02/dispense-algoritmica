@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. LICS.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. LICS.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. LICS.md"
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md"
               }
             }
           }
@@ -147,6 +147,8 @@
   },
   "active": "9316d365dce760a0",
   "lastOpenFiles": [
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/12. Stringhe Palindrome.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. LICS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/10. LCSR.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. LACS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/6. LAS.md",
@@ -163,14 +165,12 @@
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/15. Constrained Weighted Interval Scheduling.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. Sottovettore di Peso Massimo.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/12. Stringhe Palindrome.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/16. Interleaving.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/17. Hateville.md",
     "Senza nome.canvas",
     "Senza nome 1.canvas",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/9. LCS ≤ L.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. LIS.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. LICS.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231117190732.png",
     "Analisi e Progetto di Algoritmi/📝 Indice.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Distanza di Edit.md",
