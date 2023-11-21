@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/14. Problema dello Zaino (Knapsack).md",
-                "mode": "source",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/10. LCSR.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "right": {
     "id": "de2bb8d823be66fe",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/14. Problema dello Zaino (Knapsack).md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/10. LCSR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/14. Problema dello Zaino (Knapsack).md"
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/10. LCSR.md"
               }
             }
           }
@@ -148,10 +147,14 @@
   },
   "active": "9316d365dce760a0",
   "lastOpenFiles": [
+    "Senza nome.canvas",
+    "Senza nome 1.canvas",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/10. LCSR.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/9. LCS ≤ L.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/14. Problema dello Zaino (Knapsack).md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/17. Hateville.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/16. Interleaving.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/15. Constrained Weighted Interval Scheduling.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/14. Problema dello Zaino (Knapsack).md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/6. LAS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. LIS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. LICS.md",
@@ -167,15 +170,12 @@
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231117190732.png",
     "Analisi e Progetto di Algoritmi/📝 Indice.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/10. LCSR.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Distanza di Edit.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231117165930.png",
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟡 Vari/2. Matrice Simmetrica.md",
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤴️ Limite Asintotico Superiore.md",
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤵️ Limite Asintotico Inferiore.md",
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/Complessità Computazionale.md",
-    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟠 Ricerca/1. Sequenziale.md",
-    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/➡️ Limite Asintotico Stretto.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231116192503.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231116164011.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231116163830.png",
@@ -183,8 +183,6 @@
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231115223635.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231116153032.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231116163833.png",
-    "Senza nome.canvas",
-    "Senza nome 1.canvas",
     "Senza nome 2.canvas",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231026181519.png",
