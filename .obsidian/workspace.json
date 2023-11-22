@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. LACS.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. LACS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md"
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. LACS.md"
               }
             }
           }
@@ -147,6 +147,8 @@
   },
   "active": "9316d365dce760a0",
   "lastOpenFiles": [
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/9. LCS ≤ L.md",
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/5. Cammini minimi con Esattamente 3 Archi Rossi.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/6. Cammini Minimi con al più Due Archi Rossi.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/10. LCSR.md",
@@ -157,7 +159,6 @@
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. LICS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. LIS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCS3.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/12. Stringhe Palindrome.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Distanza di Edit.md",
@@ -174,7 +175,6 @@
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/17. Hateville.md",
     "Senza nome.canvas",
     "Senza nome 1.canvas",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/9. LCS ≤ L.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231117190732.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231117165930.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231116192503.png",
