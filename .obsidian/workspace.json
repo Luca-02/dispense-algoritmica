@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/3. Cammini Minimi Senza Archi Consecutivi Rossi.md",
+                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/4.  Esistenza di Cammini Senza Archi Consecutivi Rossi.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/3. Cammini Minimi Senza Archi Consecutivi Rossi.md",
+                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/4.  Esistenza di Cammini Senza Archi Consecutivi Rossi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/3. Cammini Minimi Senza Archi Consecutivi Rossi.md"
+                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/4.  Esistenza di Cammini Senza Archi Consecutivi Rossi.md"
               }
             }
           }
@@ -147,14 +147,14 @@
   },
   "active": "5184796fbfbeccc8",
   "lastOpenFiles": [
+    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/0. Floyd-Warshall.md",
+    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/3. Cammini Minimi Senza Archi Consecutivi Rossi.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/1. Cammini Minimi Senza Vertici Consecutivi Rossi.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/2. Esistenza di Cammini Senza Vertici Consecutivi Rossi.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/5. Cammini minimi con Esattamente 3 Archi Rossi.md",
-    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/3. Cammini Minimi Senza Archi Consecutivi Rossi.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/4.  Esistenza di Cammini Senza Archi Consecutivi Rossi.md",
     "Analisi e Progetto di Algoritmi/2. 📊 Grafi/6. Cammini Minimi con al più Due Archi Rossi.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. LICS.md",
-    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/0. Floyd-Warshall.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/17. Hateville.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/16. Interleaving.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/15. Constrained Weighted Interval Scheduling.md",
