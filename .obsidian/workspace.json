@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/12. Stringhe Palindrome.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. Sottovettore di Peso Massimo.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/12. Stringhe Palindrome.md",
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. Sottovettore di Peso Massimo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/12. Stringhe Palindrome.md"
+                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. Sottovettore di Peso Massimo.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   },
   "active": "5184796fbfbeccc8",
   "lastOpenFiles": [
+    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/12. Stringhe Palindrome.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Distanza di Edit.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/10. LCSR.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/17. Hateville.md",
@@ -156,7 +157,6 @@
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/15. Constrained Weighted Interval Scheduling.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/14. Problema dello Zaino (Knapsack).md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/12. Stringhe Palindrome.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/9. LCS ≤ L.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/8. LCS ≥ L.md",
     "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. LACS.md",
