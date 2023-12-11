@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/Intro.md",
+                "file": "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/2. Matroidi.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/Intro.md",
+                "file": "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/2. Matroidi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/Intro.md"
+                "file": "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/2. Matroidi.md"
               }
             }
           }
@@ -148,13 +148,14 @@
   },
   "active": "c3cc3cf45fb1975e",
   "lastOpenFiles": [
+    "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/1. Intro.md",
+    "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/2. Matroidi.md",
+    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/1. LCS.md",
     "Analisi e Progetto di Algoritmi/📝 Indice.md",
     "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/17. Hateville.md",
     "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/16. Interleaving.md",
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟢 Ricorsione/🔃 Da Funzione a Algoritmo.md",
-    "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/Intro.md",
     "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/10. LCSR.md",
-    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/1. LCS.md",
     "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/9. LCS ≤ L.md",
     "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/2. 📊 Grafi/1. Cammini Minimi Senza Vertici Consecutivi Rossi.md",
     "README.md",
@@ -175,7 +176,6 @@
     "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/11. Distanza di Edit.md",
     "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/2. 📊 Grafi/6. Cammini Minimi con al più Due Archi Rossi.md",
     "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/2. 📊 Grafi/5. Cammini minimi con Esattamente 3 Archi Rossi.md",
-    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/8. LCS ≥ L.md",
     "Senza nome.canvas",
     "Senza nome 1.canvas",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231117190732.png",
