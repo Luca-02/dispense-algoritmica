@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a66d31431d5e006b",
+        "id": "dff5be5973ffe3b0",
         "type": "tabs",
         "children": [
           {
-            "id": "de9101b9a3313c2d",
+            "id": "c3cc3cf45fb1975e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "faf8c2a2107119a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisi e Progetto di Algoritmi/2. 📊 Grafi/1. Cammini Minimi Senza Vertici Consecutivi Rossi.md",
+                "file": "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md",
+                "file": "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md"
+                "file": "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/Intro.md"
               }
             }
           }
@@ -157,34 +145,36 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "de9101b9a3313c2d",
+  "active": "c3cc3cf45fb1975e",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/15. Constrained Weighted Interval Scheduling.md",
-    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/4.  Esistenza di Cammini Senza Archi Consecutivi Rossi.md",
-    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/2. Esistenza di Cammini Senza Vertici Consecutivi Rossi.md",
-    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/1. Cammini Minimi Senza Vertici Consecutivi Rossi.md",
-    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/0. Floyd-Warshall.md",
-    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/3. Cammini Minimi Senza Archi Consecutivi Rossi.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/17. Hateville.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/16. Interleaving.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/14. Problema dello Zaino (Knapsack).md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/5. Sottovettore di Peso Massimo.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/4. LICS.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/3. LIS.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/1. LCS.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/12. Stringhe Palindrome.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/11. Distanza di Edit.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/10. LCSR.md",
-    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/6. Cammini Minimi con al più Due Archi Rossi.md",
-    "Analisi e Progetto di Algoritmi/2. 📊 Grafi/5. Cammini minimi con Esattamente 3 Archi Rossi.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/9. LCS ≤ L.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/8. LCS ≥ L.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/7. LACS.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/6. LAS.md",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze/2. LCS3.md",
-    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟣 Divide & Impera/Algoritmi D&I/4. Ricerca Dicotomica (D&I).md",
-    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟣 Divide & Impera/Algoritmi D&I/1. Conta Coppie (D&I).md",
+    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/10. LCSR.md",
+    "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/Intro.md",
+    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/1. LCS.md",
+    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/9. LCS ≤ L.md",
+    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/2. 📊 Grafi/1. Cammini Minimi Senza Vertici Consecutivi Rossi.md",
+    "README.md",
+    "Analisi e Progetto di Algoritmi/📝 Indice.md",
+    "Algoritmi e Strutture Dati/3. 🔩 Strutture Dati/🔍 Tabella riassuntiva delle complessità computazionali.md",
+    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md",
+    "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy",
+    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica",
+    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/15. Constrained Weighted Interval Scheduling.md",
+    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/2. 📊 Grafi/4.  Esistenza di Cammini Senza Archi Consecutivi Rossi.md",
+    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/2. 📊 Grafi/2. Esistenza di Cammini Senza Vertici Consecutivi Rossi.md",
+    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/2. 📊 Grafi/0. Floyd-Warshall.md",
+    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/2. 📊 Grafi/3. Cammini Minimi Senza Archi Consecutivi Rossi.md",
+    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/17. Hateville.md",
+    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/16. Interleaving.md",
+    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/14. Problema dello Zaino (Knapsack).md",
+    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/5. Sottovettore di Peso Massimo.md",
+    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/4. LICS.md",
+    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/3. LIS.md",
+    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/12. Stringhe Palindrome.md",
+    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/11. Distanza di Edit.md",
+    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/2. 📊 Grafi/6. Cammini Minimi con al più Due Archi Rossi.md",
+    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/2. 📊 Grafi/5. Cammini minimi con Esattamente 3 Archi Rossi.md",
+    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/8. LCS ≥ L.md",
+    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/7. LACS.md",
     "Senza nome.canvas",
     "Senza nome 1.canvas",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231117190732.png",
@@ -197,11 +187,11 @@
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231116153032.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231116163833.png",
     "Senza nome 2.canvas",
-    "Analisi e Progetto di Algoritmi/2. 📊 Grafi",
+    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/2. 📊 Grafi",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231026181519.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini",
     "Senza nome 3.canvas",
-    "Analisi e Progetto di Algoritmi/1. 🧬 Sequenze",
+    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze",
     "Analisi e Progetto di Algoritmi"
   ]
 }
