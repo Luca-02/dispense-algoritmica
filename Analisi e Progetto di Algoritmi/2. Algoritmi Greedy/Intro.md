@@ -14,6 +14,10 @@ calcolo della soluzione ottima attraverso una sequenza di scelte localmente otti
 - dimostrare la correttezza di un algoritmo greedy 
 - capire quali problemi sono affrontabili con una strategia greedy
 
+#### Due ingredienti chiave
+- **proprietà della sottostruttura ottima**: tipica anche della Programmazione Dinamica
+- **proprietà della scelta greedy**: la scelta, che compio ad ogni passo, appartiene a una soluzione ottima del sottoproblema che sto risolvendo in quel momento
+
 ---
 ## Greedy VS DP
 
@@ -23,8 +27,9 @@ calcolo della soluzione ottima attraverso una sequenza di scelte localmente otti
 - Efficiente e semplice da scrivere **VS** Meno efficiente e più complicato da scrivere 
 - Applicabilità inferiore **VS** Applicabilità maggiore
 
-#### Due ingredienti chiave
-- proprietà della sottostruttura ottima (tipica anche della Programmazione Dinamica)
-- proprietà della scelta greedy
-
 ---
+
+## Correttezza di un algoritmo greedy
+
+Si deve **DIMOSTRARE** che la sequenza di scelte <u>localmente</u> ottime conduce a una soluzione globalmente ottima.
+Ad ogni passo, l’attività scelta è inclusa in una soluzione ottima del sottoproblema che sto risolvendo.
