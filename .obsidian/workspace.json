@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/3. Grafi/1. Minimum Spanning Tree.md",
+                "file": "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/2. Algoritmo di Kruskal.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/3. Grafi/1. Minimum Spanning Tree.md",
+                "file": "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/2. Algoritmo di Kruskal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/3. Grafi/1. Minimum Spanning Tree.md"
+                "file": "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/2. Algoritmo di Kruskal.md"
               }
             }
           }
@@ -146,11 +146,13 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "402a415123993969",
+  "active": "863ab0df46f40258",
   "lastOpenFiles": [
+    "Analisi e Progetto di Algoritmi/3. Grafi/1. MST",
+    "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/1. Minimum Spanning Tree.md",
+    "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/2. Algoritmo di Kruskal.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231223174323.png",
     "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/2. Matroidi.md",
-    "Analisi e Progetto di Algoritmi/3. Grafi/1. Minimum Spanning Tree.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231223161910.png",
     "Algoritmi e Strutture Dati/Pasted image 20231223161909.png",
     "Algoritmi e Strutture Dati/Pasted image 20231223161908.png",
@@ -185,10 +187,8 @@
     "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/4. LICS.md",
     "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/3. LIS.md",
     "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/12. Stringhe Palindrome.md",
-    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/11. Distanza di Edit.md",
     "Senza nome.canvas",
     "Senza nome 1.canvas",
-    "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231117190732.png",
     "Senza nome 2.canvas",
     "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/2. 📊 Grafi",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini",
