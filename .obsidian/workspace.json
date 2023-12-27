@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "a5c0253266f4efcb",
+        "id": "5071a3b7e521cf56",
         "type": "tabs",
         "children": [
           {
-            "id": "863ab0df46f40258",
+            "id": "607bfcc810c26a6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/3. Algoritmo di Prim.md",
+                "file": "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi/1. Cammini minimi da sorgente unica.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4d91bef9c0fd4b73",
+            "id": "c58fbe2f55ca55d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/2. Algoritmo di Kruskal.md",
+                "file": "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/1. Minimum Spanning Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/3. Algoritmo di Prim.md",
+                "file": "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi/1. Cammini minimi da sorgente unica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/3. Algoritmo di Prim.md"
+                "file": "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi/1. Cammini minimi da sorgente unica.md"
               }
             }
           }
@@ -158,11 +158,14 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "863ab0df46f40258",
+  "active": "607bfcc810c26a6e",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/2. Algoritmo di Kruskal.md",
-    "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/3. Algoritmo di Prim.md",
     "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/1. Minimum Spanning Tree.md",
+    "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi/1. Cammini minimi da sorgente unica.md",
+    "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/2. Algoritmo di Kruskal.md",
+    "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi da sorgente unica.md",
+    "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi",
+    "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/3. Algoritmo di Prim.md",
     "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/2. Matroidi.md",
     "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/1. Intro.md",
     "Analisi e Progetto di Algoritmi/📝 Indice.md",
@@ -198,8 +201,6 @@
     "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/14. Problema dello Zaino (Knapsack).md",
     "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/5. Sottovettore di Peso Massimo.md",
     "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/4. LICS.md",
-    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/3. LIS.md",
-    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/12. Stringhe Palindrome.md",
     "Senza nome.canvas",
     "Senza nome 1.canvas",
     "Senza nome 2.canvas",
