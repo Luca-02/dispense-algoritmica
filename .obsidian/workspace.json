@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 396.5,
+    "collapsed": true
   },
   "right": {
     "id": "de2bb8d823be66fe",
@@ -145,7 +146,7 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "863ab0df46f40258",
+  "active": "402a415123993969",
   "lastOpenFiles": [
     "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/2. Matroidi.md",
     "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/1. Intro.md",
