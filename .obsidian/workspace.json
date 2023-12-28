@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "276c1fefb891696e",
+        "id": "71d582e8b314a7a8",
         "type": "tabs",
         "children": [
           {
-            "id": "e838370bed9f9380",
+            "id": "47e0cbb8dea1e7df",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,17 +146,16 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "e838370bed9f9380",
+  "active": "47e0cbb8dea1e7df",
   "lastOpenFiles": [
     "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/3. Algoritmo di Prim.md",
     "Analisi e Progetto di Algoritmi/3. Grafi/Cammini minimi/2. Algoritmo di Dijkstra.md",
+    "Analisi e Progetto di Algoritmi/3. Grafi/Cammini minimi/1. Cammini minimi da sorgente unica.md",
+    "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/2. Algoritmo di Kruskal.md",
     "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/2. Matroidi.md",
     "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/1. Intro.md",
     "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/1. Minimum Spanning Tree.md",
-    "Analisi e Progetto di Algoritmi/3. Grafi/Cammini minimi/1. Cammini minimi da sorgente unica.md",
-    "Analisi e Progetto di Algoritmi/3. Grafi/Cammini minimi/1. Cammini minimi da sorgente unica.md",
     "Analisi e Progetto di Algoritmi/3. Grafi/Cammini minimi",
-    "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/2. Algoritmo di Kruskal.md",
     "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi/2. Algoritmo di Dijkstra.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231228162745.png",
     "Algoritmi e Strutture Dati/Pasted image 20231228162641.png",
