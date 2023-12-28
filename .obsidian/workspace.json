@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5071a3b7e521cf56",
+        "id": "134ae9805085c119",
         "type": "tabs",
         "children": [
           {
-            "id": "607bfcc810c26a6e",
+            "id": "c9bdc09a03f92f6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi/2. Algoritmo di Dijkstra.md",
+                "file": "Analisi e Progetto di Algoritmi/3. Grafi/Cammini minimi/2. Algoritmo di Dijkstra.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi/2. Algoritmo di Dijkstra.md",
+                "file": "Analisi e Progetto di Algoritmi/3. Grafi/Cammini minimi/2. Algoritmo di Dijkstra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi/2. Algoritmo di Dijkstra.md"
+                "file": "Analisi e Progetto di Algoritmi/3. Grafi/Cammini minimi/2. Algoritmo di Dijkstra.md"
               }
             }
           }
@@ -146,15 +146,18 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "607bfcc810c26a6e",
+  "active": "c9bdc09a03f92f6d",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi/1. Cammini minimi da sorgente unica.md",
     "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/3. Algoritmo di Prim.md",
+    "Analisi e Progetto di Algoritmi/3. Grafi/Cammini minimi/1. Cammini minimi da sorgente unica.md",
+    "Analisi e Progetto di Algoritmi/3. Grafi/Cammini minimi/1. Cammini minimi da sorgente unica.md",
+    "Analisi e Progetto di Algoritmi/3. Grafi/Cammini minimi/2. Algoritmo di Dijkstra.md",
+    "Analisi e Progetto di Algoritmi/3. Grafi/Cammini minimi",
+    "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/2. Algoritmo di Kruskal.md",
     "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi/2. Algoritmo di Dijkstra.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231228162745.png",
     "Algoritmi e Strutture Dati/Pasted image 20231228162641.png",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231228162630.png",
-    "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/2. Algoritmo di Kruskal.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231228160938.png",
     "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/1. Minimum Spanning Tree.md",
     "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi da sorgente unica.md",
@@ -187,8 +190,6 @@
     "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/2. 📊 Grafi/2. Esistenza di Cammini Senza Vertici Consecutivi Rossi.md",
     "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/2. 📊 Grafi/0. Floyd-Warshall.md",
     "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/2. 📊 Grafi/3. Cammini Minimi Senza Archi Consecutivi Rossi.md",
-    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/14. Problema dello Zaino (Knapsack).md",
-    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/5. Sottovettore di Peso Massimo.md",
     "Senza nome.canvas",
     "Senza nome 1.canvas",
     "Senza nome 2.canvas",
