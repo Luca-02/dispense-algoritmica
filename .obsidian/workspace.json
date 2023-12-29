@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "71d582e8b314a7a8",
+        "id": "ba347f9b1f02d82a",
         "type": "tabs",
         "children": [
           {
-            "id": "47e0cbb8dea1e7df",
+            "id": "62460ce014e2319d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/3. Grafi/3. Visita di un grafo/1. Visita in ampiezza di un grafo non orientato (Breadth First Search, BFS).md",
+                "file": "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi/2. Algoritmo di Dijkstra.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/3. Grafi/3. Visita di un grafo/1. Visita in ampiezza di un grafo non orientato (Breadth First Search, BFS).md",
+                "file": "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi/2. Algoritmo di Dijkstra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/3. Grafi/3. Visita di un grafo/1. Visita in ampiezza di un grafo non orientato (Breadth First Search, BFS).md"
+                "file": "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi/2. Algoritmo di Dijkstra.md"
               }
             }
           }
@@ -145,18 +145,18 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "47e0cbb8dea1e7df",
+  "active": "62460ce014e2319d",
   "lastOpenFiles": [
+    "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi/1. Cammini minimi da sorgente unica.md",
+    "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/3. Algoritmo di Prim.md",
+    "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/2. Algoritmo di Kruskal.md",
+    "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/1. Minimum Spanning Tree.md",
     "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi/2. Algoritmo di Dijkstra.md",
     "Analisi e Progetto di Algoritmi/3. Grafi/3. Visita di un grafo/1. Visita in ampiezza di un grafo non orientato (Breadth First Search, BFS).md",
-    "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/3. Algoritmo di Prim.md",
     "Analisi e Progetto di Algoritmi/3. Grafi/3. Visita di un grafo",
-    "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/2. Algoritmo di Kruskal.md",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231228212746.png",
-    "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi/1. Cammini minimi da sorgente unica.md",
     "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/2. Matroidi.md",
     "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/1. Intro.md",
-    "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/1. Minimum Spanning Tree.md",
     "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231228162745.png",
     "Algoritmi e Strutture Dati/Pasted image 20231228162641.png",
