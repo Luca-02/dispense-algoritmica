@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5,
-    "collapsed": true
+    "width": 396.5
   },
   "right": {
     "id": "de2bb8d823be66fe",
@@ -146,8 +145,9 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "47e0cbb8dea1e7df",
+  "active": "402a415123993969",
   "lastOpenFiles": [
+    "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231228212746.png",
     "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/3. Algoritmo di Prim.md",
     "Analisi e Progetto di Algoritmi/3. Grafi/Cammini minimi/2. Algoritmo di Dijkstra.md",
     "Analisi e Progetto di Algoritmi/3. Grafi/Cammini minimi/1. Cammini minimi da sorgente unica.md",
