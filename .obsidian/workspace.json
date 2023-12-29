@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi/2. Algoritmo di Dijkstra.md",
+                "file": "Analisi e Progetto di Algoritmi/3. Grafi/3. Visita di un grafo/1. Visita in ampiezza di un grafo non orientato (Breadth First Search, BFS).md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi/2. Algoritmo di Dijkstra.md",
+                "file": "Analisi e Progetto di Algoritmi/3. Grafi/3. Visita di un grafo/1. Visita in ampiezza di un grafo non orientato (Breadth First Search, BFS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi/2. Algoritmo di Dijkstra.md"
+                "file": "Analisi e Progetto di Algoritmi/3. Grafi/3. Visita di un grafo/1. Visita in ampiezza di un grafo non orientato (Breadth First Search, BFS).md"
               }
             }
           }
@@ -147,11 +147,11 @@
   },
   "active": "62460ce014e2319d",
   "lastOpenFiles": [
+    "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi/2. Algoritmo di Dijkstra.md",
     "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi/1. Cammini minimi da sorgente unica.md",
     "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/3. Algoritmo di Prim.md",
     "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/2. Algoritmo di Kruskal.md",
     "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/1. Minimum Spanning Tree.md",
-    "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi/2. Algoritmo di Dijkstra.md",
     "Analisi e Progetto di Algoritmi/3. Grafi/3. Visita di un grafo/1. Visita in ampiezza di un grafo non orientato (Breadth First Search, BFS).md",
     "Analisi e Progetto di Algoritmi/3. Grafi/3. Visita di un grafo",
     "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231228212746.png",
