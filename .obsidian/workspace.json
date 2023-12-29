@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.2. Matroidi.md",
+                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.1. Visita in ampiezza di un grafo non orientato (Breadth First Search).md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.2. Matroidi.md",
+                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.1. Visita in ampiezza di un grafo non orientato (Breadth First Search).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.2. Matroidi.md"
+                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.1. Visita in ampiezza di un grafo non orientato (Breadth First Search).md"
               }
             }
           }
@@ -146,6 +146,7 @@
   },
   "active": "352643ad012180fe",
   "lastOpenFiles": [
+    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.2. Matroidi.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.1. Intro.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.2. Algoritmo di Kruskal.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi/3.2. Algoritmo di Dijkstra.md",
@@ -153,7 +154,6 @@
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi/3.1. Cammini minimi da sorgente unica.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.3. Algoritmo di Prim.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.1. Minimum Spanning Tree.md",
-    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.2. Matroidi.md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.7. Cammini Minimi con al più Due Archi Rossi.md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.6. Cammini minimi con Esattamente 3 Archi Rossi.md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.5.  Esistenza di Cammini Senza Archi Consecutivi Rossi.md",
