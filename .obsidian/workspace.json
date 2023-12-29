@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ba347f9b1f02d82a",
+        "id": "10c1310a2407b3fc",
         "type": "tabs",
         "children": [
           {
-            "id": "62460ce014e2319d",
+            "id": "f263f8e720f97427",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/3. Grafi/3. Visita di un grafo/1. Visita in ampiezza di un grafo non orientato (Breadth First Search, BFS).md",
+                "file": "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/15. Constrained Weighted Interval Scheduling.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5,
-    "collapsed": true
+    "width": 396.5
   },
   "right": {
     "id": "de2bb8d823be66fe",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/3. Grafi/3. Visita di un grafo/1. Visita in ampiezza di un grafo non orientato (Breadth First Search, BFS).md",
+                "file": "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/15. Constrained Weighted Interval Scheduling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/3. Grafi/3. Visita di un grafo/1. Visita in ampiezza di un grafo non orientato (Breadth First Search, BFS).md"
+                "file": "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/15. Constrained Weighted Interval Scheduling.md"
               }
             }
           }
@@ -145,56 +144,57 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "62460ce014e2319d",
+  "active": "f263f8e720f97427",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi/2. Algoritmo di Dijkstra.md",
-    "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi/1. Cammini minimi da sorgente unica.md",
-    "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/3. Algoritmo di Prim.md",
-    "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/2. Algoritmo di Kruskal.md",
-    "Analisi e Progetto di Algoritmi/3. Grafi/1. MST/1. Minimum Spanning Tree.md",
-    "Analisi e Progetto di Algoritmi/3. Grafi/3. Visita di un grafo/1. Visita in ampiezza di un grafo non orientato (Breadth First Search, BFS).md",
-    "Analisi e Progetto di Algoritmi/3. Grafi/3. Visita di un grafo",
-    "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231228212746.png",
-    "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/2. Matroidi.md",
-    "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/1. Intro.md",
-    "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi",
-    "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231228162745.png",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.14. Problema dello Zaino (Knapsack).md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.13. Weighted Interval Scheduling.md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.12. Stringhe Palindrome.md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.11. Distanza di Edit.md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.10. LCSR.md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.9. LCS ≤ L.md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.8. LCS ≥ L.md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.7. LACS.md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.6. LAS.md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.5. Sottovettore di Peso Massimo.md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.4. LICS.md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.3. LIS.md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.2. LCS3.md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.1. LCS.md",
+    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.1. Visita in ampiezza di un grafo non orientato (Breadth First Search).md",
+    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi/3.2. Algoritmo di Dijkstra.md",
+    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi/3.1. Cammini minimi da sorgente unica.md",
+    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.2. Algoritmo di Kruskal.md",
+    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.3. Algoritmo di Prim.md",
+    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.1. Minimum Spanning Tree.md",
+    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.2. Matroidi.md",
+    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.1. Intro.md",
+    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria",
+    "Analisi e Progetto di Algoritmi/🖼️ Immagini/Pasted image 20231012165143.png",
+    "Algoritmi e Strutture Dati/0. ⛏️ Passaggi Esercizi d'Esame/Radix_Sort.jpg",
+    "Algoritmi e Strutture Dati/0. ⛏️ Passaggi Esercizi d'Esame/Quick_Sort.jpg",
+    "Algoritmi e Strutture Dati/0. ⛏️ Passaggi Esercizi d'Esame/Merge_Sort.jpg",
+    "Algoritmi e Strutture Dati/0. ⛏️ Passaggi Esercizi d'Esame/BuildHeap.jpg",
+    "Algoritmi e Strutture Dati/0. ⛏️ Passaggi Esercizi d'Esame/Counting_Sort.jpg",
+    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/➡️ Limite Asintotico Stretto.md",
+    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤵️ Limite Asintotico Inferiore.md",
+    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤴️ Limite Asintotico Superiore.md",
+    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟡 Vari/1. Quanti elementi di A in B.md",
+    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo",
+    "Analisi e Progetto di Algoritmi/🖼️ Immagini/Pasted image 20231228212746.png",
+    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi",
+    "Analisi e Progetto di Algoritmi/🖼️ Immagini/Pasted image 20231228162745.png",
     "Algoritmi e Strutture Dati/Pasted image 20231228162641.png",
-    "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231228162630.png",
-    "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231228160938.png",
-    "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi da sorgente unica.md",
-    "Analisi e Progetto di Algoritmi/3. Grafi/2. Cammini minimi",
-    "Analisi e Progetto di Algoritmi/📝 Indice.md",
-    "Analisi e Progetto di Algoritmi/3. Grafi/1. MST",
-    "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231223174323.png",
-    "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231223161910.png",
-    "Algoritmi e Strutture Dati/Pasted image 20231223161909.png",
-    "Algoritmi e Strutture Dati/Pasted image 20231223161908.png",
-    "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini/Pasted image 20231222194125.png",
+    "Analisi e Progetto di Algoritmi/🖼️ Immagini/Pasted image 20231228162630.png",
+    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi",
+    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST",
     "Analisi e Progetto di Algoritmi/3. Grafi",
-    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/1. LCS.md",
-    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/17. Hateville.md",
-    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/16. Interleaving.md",
-    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟢 Ricorsione/🔃 Da Funzione a Algoritmo.md",
-    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/10. LCSR.md",
-    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/9. LCS ≤ L.md",
-    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/2. 📊 Grafi/1. Cammini Minimi Senza Vertici Consecutivi Rossi.md",
-    "README.md",
-    "Algoritmi e Strutture Dati/3. 🔩 Strutture Dati/🔍 Tabella riassuntiva delle complessità computazionali.md",
-    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/13. Weighted Interval Scheduling.md",
-    "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy",
-    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica",
-    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze/15. Constrained Weighted Interval Scheduling.md",
-    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/2. 📊 Grafi/4.  Esistenza di Cammini Senza Archi Consecutivi Rossi.md",
-    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/2. 📊 Grafi/2. Esistenza di Cammini Senza Vertici Consecutivi Rossi.md",
-    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/2. 📊 Grafi/0. Floyd-Warshall.md",
-    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/2. 📊 Grafi/3. Cammini Minimi Senza Archi Consecutivi Rossi.md",
+    "Analisi e Progetto di Algoritmi/Algoritmi Greedy",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica",
     "Senza nome.canvas",
     "Senza nome 1.canvas",
     "Senza nome 2.canvas",
-    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/2. 📊 Grafi",
-    "Analisi e Progetto di Algoritmi/0. ⛏️ Immagini",
-    "Senza nome 3.canvas",
-    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. 🧬 Sequenze"
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi",
+    "Analisi e Progetto di Algoritmi/🖼️ Immagini",
+    "Senza nome 3.canvas"
   ]
 }
