@@ -26,13 +26,12 @@
               "type": "markdown",
               "state": {
                 "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.1. Visita in ampiezza di un grafo non orientato (Breadth First Search).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.1. Visita in ampiezza di un grafo non orientato (Breadth First Search).md",
+                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.2 Visita in profondità di un grafo (Depth First Search).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.1. Visita in ampiezza di un grafo non orientato (Breadth First Search).md"
+                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.2 Visita in profondità di un grafo (Depth First Search).md"
               }
             }
           }
@@ -158,10 +157,10 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "a0c68a768071ed17",
+  "active": "4c5361c8c22d9ec9",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.2 Visita in profondità di un grafo (Depth First Search).md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.1. Visita in ampiezza di un grafo non orientato (Breadth First Search).md",
+    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.2 Visita in profondità di un grafo (Depth First Search).md",
     "Algoritmi e Strutture Dati/Pasted image 20231230183748.png",
     "Algoritmi e Strutture Dati/Pasted image 20231230182618.png",
     "Algoritmi e Strutture Dati/Pasted image 20231230182111.png",
