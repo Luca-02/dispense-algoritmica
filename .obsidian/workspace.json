@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.2 Visita in profondità di un grafo (Depth First Search).md",
-                "mode": "source",
+                "file": "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.2. Cammini Minimi Senza Vertici Consecutivi Rossi.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5,
-    "collapsed": true
+    "width": 396.5
   },
   "right": {
     "id": "de2bb8d823be66fe",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.2 Visita in profondità di un grafo (Depth First Search).md",
+                "file": "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.2. Cammini Minimi Senza Vertici Consecutivi Rossi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.2 Visita in profondità di un grafo (Depth First Search).md"
+                "file": "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.2. Cammini Minimi Senza Vertici Consecutivi Rossi.md"
               }
             }
           }
@@ -145,10 +144,19 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "c8bd344ffc16cc61",
+  "active": "402a415123993969",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/🖼️ Immagini/Pasted image 20231230182111.png",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.1. Floyd-Warshall.md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.7. Cammini Minimi con al più Due Archi Rossi.md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.6. Cammini minimi con Esattamente 3 Archi Rossi.md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.4. Cammini Minimi Senza Archi Consecutivi Rossi.md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.2. Cammini Minimi Senza Vertici Consecutivi Rossi.md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.14. Problema dello Zaino (Knapsack).md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.4. LICS.md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.1. LCS.md",
+    "README.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.2 Visita in profondità di un grafo (Depth First Search).md",
+    "Analisi e Progetto di Algoritmi/🖼️ Immagini/Pasted image 20231230182111.png",
     "Analisi e Progetto di Algoritmi/🖼️ Immagini/Pasted image 20231230182618.png",
     "Analisi e Progetto di Algoritmi/🖼️ Immagini/Pasted image 20231230183748.png",
     "Analisi e Progetto di Algoritmi/🖼️ Immagini/Pasted image 20231231025050.png",
@@ -171,17 +179,9 @@
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi/3.1. Cammini minimi da sorgente unica.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.3. Algoritmo di Prim.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.1. Minimum Spanning Tree.md",
-    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.7. Cammini Minimi con al più Due Archi Rossi.md",
-    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.6. Cammini minimi con Esattamente 3 Archi Rossi.md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.5.  Esistenza di Cammini Senza Archi Consecutivi Rossi.md",
-    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.4. Cammini Minimi Senza Archi Consecutivi Rossi.md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.3. Esistenza di Cammini Senza Vertici Consecutivi Rossi.md",
-    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.2. Cammini Minimi Senza Vertici Consecutivi Rossi.md",
-    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.1. Floyd-Warshall.md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.17. Hateville.md",
-    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.16. Interleaving.md",
-    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.15. Constrained Weighted Interval Scheduling.md",
-    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.14. Problema dello Zaino (Knapsack).md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi",
