@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.1. Floyd-Warshall.md",
-                "mode": "preview",
+                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.1. Minimum Spanning Tree.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.1. Floyd-Warshall.md",
+                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.1. Minimum Spanning Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.1. Floyd-Warshall.md"
+                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.1. Minimum Spanning Tree.md"
               }
             }
           }
@@ -146,11 +146,13 @@
   },
   "active": "c8bd344ffc16cc61",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.2. Cammini Minimi Senza Vertici Consecutivi Rossi.md",
-    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.3. Esistenza di Cammini Senza Vertici Consecutivi Rossi.md",
+    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.2. Matroidi.md",
+    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.1. Intro.md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.1. Floyd-Warshall.md",
-    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.14. Problema dello Zaino (Knapsack).md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.2. Cammini Minimi Senza Vertici Consecutivi Rossi.md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.1. LCS.md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.3. Esistenza di Cammini Senza Vertici Consecutivi Rossi.md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.14. Problema dello Zaino (Knapsack).md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.7. Cammini Minimi con al più Due Archi Rossi.md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.6. Cammini minimi con Esattamente 3 Archi Rossi.md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.4. Cammini Minimi Senza Archi Consecutivi Rossi.md",
@@ -173,8 +175,6 @@
     "Algoritmi e Strutture Dati/1. 📌 Appendici/C. Sommatorie.md",
     "Algoritmi e Strutture Dati/1. 📌 Appendici/A. Convenzioni Pseudocodice.md",
     "Algoritmi e Strutture Dati/1. 📌 Appendici/B. Tempi dei Cicli While.md",
-    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.2. Matroidi.md",
-    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.1. Intro.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.2. Algoritmo di Kruskal.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi/3.2. Algoritmo di Dijkstra.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi/3.1. Cammini minimi da sorgente unica.md",
