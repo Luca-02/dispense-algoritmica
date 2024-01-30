@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.2. Algoritmo di Kruskal.md",
+                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.1. Minimum Spanning Tree.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.2. Algoritmo di Kruskal.md",
+                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.1. Minimum Spanning Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.2. Algoritmo di Kruskal.md"
+                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.1. Minimum Spanning Tree.md"
               }
             }
           }
@@ -159,8 +159,8 @@
   },
   "active": "b7f50ba79727112a",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.3. Algoritmo di Prim.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.2. Algoritmo di Kruskal.md",
+    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.3. Algoritmo di Prim.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.1. Minimum Spanning Tree.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.2. Matroidi.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.1. Intro.md",
