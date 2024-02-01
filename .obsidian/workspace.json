@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi/3.1. Cammini minimi da sorgente unica.md",
+                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi/3.2. Algoritmo di Dijkstra.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi/3.1. Cammini minimi da sorgente unica.md",
+                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi/3.2. Algoritmo di Dijkstra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi/3.1. Cammini minimi da sorgente unica.md"
+                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi/3.2. Algoritmo di Dijkstra.md"
               }
             }
           }
@@ -146,9 +146,9 @@
   },
   "active": "e11a9a3e149e6490",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.3. Algoritmo di Prim.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi/3.1. Cammini minimi da sorgente unica.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi/3.2. Algoritmo di Dijkstra.md",
+    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.3. Algoritmo di Prim.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.1. Minimum Spanning Tree.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.2. Algoritmo di Kruskal.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.2. Matroidi.md",
