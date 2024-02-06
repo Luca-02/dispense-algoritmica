@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.13. Weighted Interval Scheduling.md",
+                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.3 Strutture Dati per Insiemi Disgiunti.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.13. Weighted Interval Scheduling.md",
+                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.3 Strutture Dati per Insiemi Disgiunti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.13. Weighted Interval Scheduling.md"
+                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.3 Strutture Dati per Insiemi Disgiunti.md"
               }
             }
           }
@@ -147,11 +147,15 @@
   "active": "b3b2a76ee0d7bf20",
   "lastOpenFiles": [
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.2. Matroidi.md",
+    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.3 Strutture Dati per Insiemi Disgiunti.md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.3. LIS.md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.17. Hateville.md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.16. Interleaving.md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.13. Weighted Interval Scheduling.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.1. Intro.md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.1. Floyd-Warshall.md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.1. LCS.md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.4. LICS.md",
-    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.3. LIS.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.2 Visita in profondità di un grafo (Depth First Search).md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.1. Visita in ampiezza di un grafo non orientato (Breadth First Search).md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.3. Esistenza di Cammini Senza Vertici Consecutivi Rossi.md",
@@ -161,7 +165,6 @@
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.2. LCS3.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi/3.1. Cammini minimi da sorgente unica.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.1. Minimum Spanning Tree.md",
-    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.3 Strutture Dati per Insiemi Disgiunti.md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.2. Cammini Minimi Senza Vertici Consecutivi Rossi.md",
     "Analisi e Progetto di Algoritmi/🖼️ Immagini/Pasted image 20240130190201.png",
     "Algoritmi e Strutture Dati/Pasted image 20240130190200.png",
@@ -171,8 +174,6 @@
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.6. Cammini minimi con Esattamente 3 Archi Rossi.md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.5.  Esistenza di Cammini Senza Archi Consecutivi Rossi.md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.4. Cammini Minimi Senza Archi Consecutivi Rossi.md",
-    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.17. Hateville.md",
-    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.13. Weighted Interval Scheduling.md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.14. Problema dello Zaino (Knapsack).md",
     "Analisi e Progetto di Algoritmi/🖼️ Immagini/Pasted image 20231230182111.png",
     "Analisi e Progetto di Algoritmi/🖼️ Immagini/Pasted image 20231230182618.png",
@@ -181,7 +182,6 @@
     "Algoritmi e Strutture Dati/Pasted image 20231230182109.png",
     "Algoritmi e Strutture Dati/Pasted image 20231230182108.png",
     "Algoritmi e Strutture Dati/Pasted image 20231230182040.png",
-    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/➡️ Limite Asintotico Stretto.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi",
