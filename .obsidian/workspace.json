@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.1. Visita in ampiezza di un grafo non orientato (Breadth First Search).md",
+                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.1. Intro.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.1. Visita in ampiezza di un grafo non orientato (Breadth First Search).md",
+                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.1. Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.1. Visita in ampiezza di un grafo non orientato (Breadth First Search).md"
+                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.1. Intro.md"
               }
             }
           }
@@ -146,8 +146,8 @@
   },
   "active": "dc949ff4f6ffdd7c",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.2 Visita in profondità di un grafo (Depth First Search).md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.1. Visita in ampiezza di un grafo non orientato (Breadth First Search).md",
+    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.2 Visita in profondità di un grafo (Depth First Search).md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi/3.2. Algoritmo di Dijkstra.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.1. Minimum Spanning Tree.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi/3.1. Cammini minimi da sorgente unica.md",
