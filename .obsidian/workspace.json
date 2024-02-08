@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.17. Hateville.md",
-                "mode": "source",
+                "file": "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.1. LCS.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.17. Hateville.md",
+                "file": "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.1. LCS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.17. Hateville.md"
+                "file": "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.1. LCS.md"
               }
             }
           }
@@ -147,8 +147,9 @@
   "active": "dc949ff4f6ffdd7c",
   "lastOpenFiles": [
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.1. Floyd-Warshall.md",
-    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.1. LCS.md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.17. Hateville.md",
+    "Analisi e Progetto di Algoritmi/🖼️ Immagini/Pasted image 20240208193759.png",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.1. LCS.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.2 Visita in profondità di un grafo (Depth First Search).md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.1. Visita in ampiezza di un grafo non orientato (Breadth First Search).md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi/3.2. Algoritmo di Dijkstra.md",
@@ -174,14 +175,12 @@
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.7. Cammini Minimi con al più Due Archi Rossi.md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.6. Cammini minimi con Esattamente 3 Archi Rossi.md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.5.  Esistenza di Cammini Senza Archi Consecutivi Rossi.md",
-    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.4. Cammini Minimi Senza Archi Consecutivi Rossi.md",
     "Analisi e Progetto di Algoritmi/🖼️ Immagini/Pasted image 20231230182111.png",
     "Analisi e Progetto di Algoritmi/🖼️ Immagini/Pasted image 20231230182618.png",
     "Analisi e Progetto di Algoritmi/🖼️ Immagini/Pasted image 20231230183748.png",
     "Analisi e Progetto di Algoritmi/🖼️ Immagini/Pasted image 20231231025050.png",
     "Algoritmi e Strutture Dati/Pasted image 20231230182109.png",
     "Algoritmi e Strutture Dati/Pasted image 20231230182108.png",
-    "Algoritmi e Strutture Dati/Pasted image 20231230182040.png",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi",
