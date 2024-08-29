@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "02d940aacfd34cbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.1. Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,8 +157,9 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "402a415123993969",
+  "active": "02d940aacfd34cbb",
   "lastOpenFiles": [
+    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.1. Minimum Spanning Tree.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.2. Matroidi.md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.1. LCS.md",
     "Algoritmi e Strutture Dati/3. 🔩 Strutture Dati/🔍 Tabella riassuntiva delle complessità computazionali.md",
@@ -170,7 +184,6 @@
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.3. Algoritmo di Prim.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.2. Algoritmo di Kruskal.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi/3.1. Cammini minimi da sorgente unica.md",
-    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.1. Minimum Spanning Tree.md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.2. Cammini Minimi Senza Vertici Consecutivi Rossi.md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.16. Interleaving.md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.13. Weighted Interval Scheduling.md",
