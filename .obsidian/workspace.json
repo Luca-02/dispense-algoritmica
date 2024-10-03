@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟤 Sorting/4. Merge Sort (D&I).md",
+                "file": "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤴️ Limite Asintotico Superiore.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟤 Sorting/4. Merge Sort (D&I).md",
+                "file": "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤴️ Limite Asintotico Superiore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟤 Sorting/4. Merge Sort (D&I).md"
+                "file": "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤴️ Limite Asintotico Superiore.md"
               }
             }
           }
@@ -146,6 +146,8 @@
   },
   "active": "9e01cb5ce91816a2",
   "lastOpenFiles": [
+    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/➡️ Limite Asintotico Stretto.md",
+    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟤 Sorting/4. Merge Sort (D&I).md",
     "Algoritmi e Strutture Dati/1. 📌 Appendici/A. Convenzioni Pseudocodice.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.1. Intro.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.2 Visita in profondità di un grafo (Depth First Search).md",
@@ -172,8 +174,6 @@
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.2. LCS3.md",
     "Analisi e Progetto di Algoritmi/🖼️ Immagini/Pasted image 20240208193759.png",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.3. Algoritmo di Prim.md",
-    "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.2. Algoritmo di Kruskal.md",
-    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/2. Grafi/2.2. Cammini Minimi Senza Vertici Consecutivi Rossi.md",
     "Analisi e Progetto di Algoritmi/🖼️ Immagini/Pasted image 20240130190201.png",
     "Algoritmi e Strutture Dati/Pasted image 20240130190200.png",
     "Analisi e Progetto di Algoritmi/🖼️ Immagini/Pasted image 20240130183957.png",
