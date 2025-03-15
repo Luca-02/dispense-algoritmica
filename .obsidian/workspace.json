@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.14. Problema dello Zaino (Knapsack).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "1.14. Problema dello Zaino (Knapsack)"
             }
           }
         ]
@@ -160,8 +160,9 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "402a415123993969",
+  "active": "ef21f402f97573df",
   "lastOpenFiles": [
+    "README.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.2. Algoritmo di Kruskal.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.3. Algoritmo di Prim.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.1. Minimum Spanning Tree.md",
@@ -171,7 +172,6 @@
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟤 Sorting/5. Quick Sort (D&I).md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.14. Problema dello Zaino (Knapsack).md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.13. Weighted Interval Scheduling.md",
-    "README.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.1. Visita in ampiezza di un grafo non orientato (Breadth First Search).md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.2 Visita in profondità di un grafo (Depth First Search).md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi/3.2. Algoritmo di Dijkstra.md",
