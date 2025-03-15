@@ -9,9 +9,8 @@ Le dispense sono formattate per essere utilizzate con [Obsidian](https://obsidia
 ## 📖 Contenuti
 Questa raccolta di appunti copre argomenti fondamentali di algoritmica, tra cui:
 
-✔️ Algoritmi di ordinamento e ricerca  
-✔️ Strutture dati 
+✔️ Complessità computazionale
+✔️ Algoritmi ricorsivi e Divide et Impera
+✔️ Algoritmi di ordinamento e ricerca
+✔️ Strutture dati principali e operazioni su di esse
 ✔️ Programmazione dinamica  
-✔️ Algoritmi su grafi 
-
-E molto altro!
