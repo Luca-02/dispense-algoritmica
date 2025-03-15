@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "78d1bd2f8df6bde0",
+        "id": "2d5e0b171ba72794",
         "type": "tabs",
         "children": [
           {
-            "id": "ef21f402f97573df",
+            "id": "de2c318c6224e373",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.14. Problema dello Zaino (Knapsack).md",
-                "mode": "preview",
-                "source": false
+                "file": "README.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "1.14. Problema dello Zaino (Knapsack)"
+              "title": "README"
             }
           }
         ]
@@ -57,7 +57,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Esplora risorse"
@@ -126,8 +127,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin non più attivo"
             }
           },
           {
@@ -152,17 +153,27 @@
   "left-ribbon": {
     "hiddenItems": {
       "canvas:Crea nuova lavagna": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
       "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
       "command-palette:Apri riquadro comandi": false,
-      "markdown-importer:Apri importazione Markdown": false
+      "markdown-importer:Apri importazione Markdown": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "ef21f402f97573df",
+  "active": "de2c318c6224e373",
   "lastOpenFiles": [
+    "Algoritmi e Strutture Dati/📝 Indice.md",
     "README.md",
+    "Algoritmi e Strutture Dati/3. 🔩 Strutture Dati/🟠Pile o Stack/2. Implementazione e Operazioni Stack.md",
+    "Algoritmi e Strutture Dati/3. 🔩 Strutture Dati/🟣 Heap/1. Descrizione Heap.md",
+    "Algoritmi e Strutture Dati/3. 🔩 Strutture Dati/🟣 Heap/2. Operazioni Heap.md",
+    "Algoritmi e Strutture Dati/0. ⛏️ Passaggi Esercizi d'Esame/Merge_Sort.jpg",
+    "Algoritmi e Strutture Dati/1. 📌 Appendici/B. Tempi dei Cicli While.md",
+    "Algoritmi e Strutture Dati/1. 📌 Appendici/A. Convenzioni Pseudocodice.md",
+    "Algoritmi e Strutture Dati/1. 📌 Appendici/D. Approssimazioni.md",
+    "Algoritmi e Strutture Dati/1. 📌 Appendici/C. Sommatorie.md",
+    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.14. Problema dello Zaino (Knapsack).md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.2. Algoritmo di Kruskal.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.3. Algoritmo di Prim.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/2. MST/2.1. Minimum Spanning Tree.md",
@@ -170,7 +181,6 @@
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.2. Matroidi.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria/1.1. Intro.md",
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟤 Sorting/5. Quick Sort (D&I).md",
-    "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.14. Problema dello Zaino (Knapsack).md",
     "Analisi e Progetto di Algoritmi/Programmazione Dinamica/1. Sequenze/1.13. Weighted Interval Scheduling.md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.1. Visita in ampiezza di un grafo non orientato (Breadth First Search).md",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo/4.2 Visita in profondità di un grafo (Depth First Search).md",
@@ -180,15 +190,7 @@
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤴️ Limite Asintotico Superiore.md",
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/⤵️ Limite Asintotico Inferiore.md",
     "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🔴 Limiti Asintotici/➡️ Limite Asintotico Stretto.md",
-    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟤 Sorting/1. Selection Sort.md",
-    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟤 Sorting/2. Bubble Sort.md",
-    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟤 Sorting/3. Insertion Sort.md",
     "Algoritmi e Strutture Dati/0. ⛏️ Passaggi Esercizi d'Esame/Counting_Sort.jpg",
-    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟤 Sorting/5.2. Quick Sort Randomizzato (D&I).md",
-    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟤 Sorting/4. Merge Sort (D&I).md",
-    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟢 Ricorsione/Algoritmi Vari Ricorsivi/2. Potenza.md",
-    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟢 Ricorsione/🔢 Calcolare i tempi Ricorsivi.md",
-    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟢 Ricorsione/🔃 Da Funzione a Algoritmo.md",
     "Algoritmi e Strutture Dati/0. ⛏️ Passaggi Esercizi d'Esame/Radix_Sort.jpg",
     "Algoritmi e Strutture Dati/0. ⛏️ Passaggi Esercizi d'Esame/Quick_Sort.jpg",
     "Algoritmi e Strutture Dati/0. ⛏️ Passaggi Esercizi d'Esame/Heap_Sort.jpg",
@@ -197,7 +199,6 @@
     "Analisi e Progetto di Algoritmi/🖼️ Immagini/Pasted image 20240208193759.png",
     "Analisi e Progetto di Algoritmi/🖼️ Immagini/Pasted image 20240130190201.png",
     "Algoritmi e Strutture Dati/Pasted image 20240130190200.png",
-    "Analisi e Progetto di Algoritmi/🖼️ Immagini/Pasted image 20240130183957.png",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/1. Teoria",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/4. Visita di un grafo",
     "Analisi e Progetto di Algoritmi/Algoritmi Greedy/3. Cammini minimi",
