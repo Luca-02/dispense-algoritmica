@@ -9,8 +9,23 @@ Le dispense sono formattate per essere utilizzate con [Obsidian](https://obsidia
 ## 📖 Contenuti
 Questa raccolta di appunti copre argomenti fondamentali di algoritmica, tra cui:
 
-✔️ Complessità computazionale
-✔️ Algoritmi ricorsivi e Divide et Impera
-✔️ Algoritmi di ordinamento e ricerca
-✔️ Strutture dati principali e operazioni su di esse
-✔️ Programmazione dinamica  
+✔️ Complessità computazionale \
+✔️ Algoritmi ricorsivi e Divide et Impera \
+✔️ Algoritmi di ordinamento e ricerca \
+✔️ Strutture dati principali e operazioni su di esse \
+✔️ Programmazione dinamica \
+✔️ Algoritmi greedy
+
+## 🔧 Utilizzo
+1. **Scarica e installa** [Obsidian](https://obsidian.md/).  
+
+2. **Clona questa repository** eseguendo il seguente comando nel terminale:
+    ```bash
+    git clone https://github.com/Luca-02/dispense-algoritmica.git
+    ```
+
+3. **Apri la cartella clonata con Obsidian** e inizia a esplorare gli appunti!
+
+---
+
+🚀 Buono studio!
