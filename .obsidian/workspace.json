@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/4. Visita di un grafo/4.1. Visita in ampiezza di un grafo non orientato (Breadth First Search).md",
+                "file": "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟤 Sorting/4. Merge Sort (D&I).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.1. Visita in ampiezza di un grafo non orientato (Breadth First Search)"
+              "title": "4. Merge Sort (D&I)"
             }
           }
         ],
@@ -179,8 +179,11 @@
   },
   "active": "2ba94870233a9148",
   "lastOpenFiles": [
-    "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/4. Visita di un grafo/4.2 Visita in profondità di un grafo (Depth First Search).md",
+    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟣 Divide & Impera/🤓 Metodo dell'Esperto.md",
+    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟣 Divide & Impera/📃 Definizione Divide & Impera.md",
+    "Algoritmi e Strutture Dati/2. 🧑‍💻 Algoritmi/🟤 Sorting/4. Merge Sort (D&I).md",
     "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/4. Visita di un grafo/4.1. Visita in ampiezza di un grafo non orientato (Breadth First Search).md",
+    "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/4. Visita di un grafo/4.2 Visita in profondità di un grafo (Depth First Search).md",
     "README.md",
     "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/2. MST/2.2. Algoritmo di Kruskal.md",
     "Analisi e Progetto di Algoritmi/2. Algoritmi Greedy/2. MST/2.3. Algoritmo di Prim.md",
@@ -202,9 +205,6 @@
     "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. Sequenze/1.17. Hateville.md",
     "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. Sequenze/1.16. Interleaving.md",
     "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. Sequenze/1.15. Constrained Weighted Interval Scheduling.md",
-    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. Sequenze/1.14. Problema dello Zaino (Knapsack).md",
-    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. Sequenze/1.13. Weighted Interval Scheduling.md",
-    "Analisi e Progetto di Algoritmi/1. Programmazione Dinamica/1. Sequenze/1.12. Stringhe Palindrome.md",
     "Analisi e Progetto di Algoritmi/🖼️ Immagini/Pasted image 20240208193759.png",
     "Analisi e Progetto di Algoritmi/🖼️ Immagini/Pasted image 20231228162630.png",
     "Analisi e Progetto di Algoritmi/🖼️ Immagini/Pasted image 20231009195421.png",
